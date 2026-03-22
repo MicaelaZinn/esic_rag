@@ -1,5 +1,6 @@
 import faiss
 import numpy as np
+import pandas as pd
 from sentence_transformers import SentenceTransformer
 
 # Inicializamos el modelo de lenguaje de forma global para mejorar la eficiencia
@@ -70,3 +71,7 @@ def consultar(df):
             break
         respuesta = buscar_y_responder(consulta, df, id)
         print(respuesta)
+
+if __name__ == "__main__":
+    df = pd.read_csv('./data/clean/productos_procesados.csv')
+    consultar(df)

@@ -1,0 +1,6138 @@
+[
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-naturales-y-desnatados/p/272536",
+    "titulo": "Yogur natural",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,5 g",
+      "Saturadas": "2,3 g",
+      "Hidratos de carbono": "4,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,3 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "62 kcal",
+      "Valor energetico en KJ": "259 kJ"
+    },
+    "descripcion": "Yogur natural Dia Láctea pack 8 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.33,
+    "unidades": 8,
+    "peso_por_unidad": "125 g",
+    "peso_total": "1000 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-naturales-y-desnatados/p/272538",
+    "titulo": "Yogur natural con azúcar de caña",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,5 g",
+      "Saturadas": "2,3 g",
+      "Hidratos de carbono": "11,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,3 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "91 kcal",
+      "Valor energetico en KJ": "383 kJ"
+    },
+    "descripcion": "Yogur natural con azúcar de caña Dia Láctea pack 8 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.39,
+    "unidades": 8,
+    "peso_por_unidad": "125 g",
+    "peso_total": "1000 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-naturales-y-desnatados/p/128592",
+    "titulo": "Yogur natural desnatado edulcorado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,1 g",
+      "Saturadas": "0,1 g",
+      "Hidratos de carbono": "5,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,9 g",
+      "Sal": "0,15 g",
+      "Valor energetico": "39 kcal",
+      "Valor energetico en KJ": "165 kJ"
+    },
+    "descripcion": "Yogur natural desnatado edulcorado Dia Láctea pack 6 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 0.99,
+    "unidades": 6,
+    "peso_por_unidad": "125 g",
+    "peso_total": "750 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-naturales-y-desnatados/p/307307",
+    "titulo": "Yogur natural de cabra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4,9 g",
+      "Saturadas": "3,6 g",
+      "Hidratos de carbono": "4,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,2 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "85 kcal",
+      "Valor energetico en KJ": "354 kJ"
+    },
+    "descripcion": "Yogur natural de cabra Dia Láctea pack 2 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.59,
+    "unidades": 2,
+    "peso_por_unidad": "125 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-de-sabores-y-frutas/p/100604",
+    "titulo": "Yogur sabores",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,9 g",
+      "Saturadas": "1,3 g",
+      "Hidratos de carbono": "11,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,1 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "75 kcal",
+      "Valor energetico en KJ": "315 kJ"
+    },
+    "descripcion": "Yogur sabores Dia Láctea pack 16 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 2.4,
+    "unidades": 16,
+    "peso_por_unidad": "125 g",
+    "peso_total": "2000 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-de-sabores-y-frutas/p/14277",
+    "titulo": "Yogur con frutas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,5 g",
+      "Saturadas": "2,3 g",
+      "Hidratos de carbono": "4,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "62 kcal",
+      "Valor energetico en KJ": "259 kJ"
+    },
+    "descripcion": "Yogur con frutas Dia Láctea pack 8 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.99,
+    "unidades": 8,
+    "peso_por_unidad": "125 g",
+    "peso_total": "1000 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-de-sabores-y-frutas/p/187603",
+    "titulo": "Yogur sabor coco, fresa, frutos del bosque y macedonia",
+    "marca": "Danone",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,2 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "10 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "72 kcal",
+      "Valor energetico en KJ": "300 kJ"
+    },
+    "descripcion": "Yogur sabor coco, fresa, frutos del bosque y macedonia Danone pack 8 x 120 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.99,
+    "unidades": 8,
+    "peso_por_unidad": "120 g",
+    "peso_total": "960 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-de-sabores-y-frutas/p/204985",
+    "titulo": "Yogur sabor limón",
+    "marca": "Danone",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,2 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "10 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "72 kcal",
+      "Valor energetico en KJ": "300 kJ"
+    },
+    "descripcion": "Yogur sabor limón Danone pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-griegos/p/272542",
+    "titulo": "Yogur griego stracciatella Dia",
+    "marca": "Fidias",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,2 g",
+      "Saturadas": "5,4 g",
+      "Hidratos de carbono": "15,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,4 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "148 kcal",
+      "Valor energetico en KJ": "617 kJ"
+    },
+    "descripcion": "Yogur griego stracciatella Dia Fidias pack 6 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.9,
+    "unidades": 6,
+    "peso_por_unidad": "125 g",
+    "peso_total": "750 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-griegos/p/135285",
+    "titulo": "Yogur griego natural Dia",
+    "marca": "Fidias",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,9 g",
+      "Saturadas": "6,4 g",
+      "Hidratos de carbono": "5,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,6 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "125 kcal",
+      "Valor energetico en KJ": "519 kJ"
+    },
+    "descripcion": "Yogur griego natural Dia Fidias pack 6 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.55,
+    "unidades": 6,
+    "peso_por_unidad": "125 g",
+    "peso_total": "750 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-griegos/p/303597",
+    "titulo": "Yogur griego natural con azúcar de caña Dia",
+    "marca": "Fidias",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,2 g",
+      "Saturadas": "6,2 g",
+      "Hidratos de carbono": "11,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,3 g",
+      "Sal": "0,12 g",
+      "Valor energetico": "144 kcal",
+      "Valor energetico en KJ": "601 kJ"
+    },
+    "descripcion": "Yogur griego natural con azúcar de caña Dia Fidias pack 6 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.59,
+    "unidades": 6,
+    "peso_por_unidad": "125 g",
+    "peso_total": "750 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-griegos/p/135291",
+    "titulo": "Yogur griego con fresa Dia",
+    "marca": "Fidias",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,5 g",
+      "Saturadas": "5 g",
+      "Hidratos de carbono": "11,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,8 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "129 kcal",
+      "Valor energetico en KJ": "539 kJ"
+    },
+    "descripcion": "Yogur griego con fresa Dia Fidias pack 6 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.7,
+    "unidades": 6,
+    "peso_por_unidad": "125 g",
+    "peso_total": "750 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/101846",
+    "titulo": "L-Casei fresa-plátano y coco-piña",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,6 g",
+      "Saturadas": "1 g",
+      "Hidratos de carbono": "10,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,6 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "70 kcal",
+      "Valor energetico en KJ": "296 kJ"
+    },
+    "descripcion": "L-Casei fresa-plátano y coco-piña Dia pack 12 x 100 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 2.25,
+    "unidades": 12,
+    "peso_por_unidad": "100 g",
+    "peso_total": "1200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/274134",
+    "titulo": "Bebida de fresa",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,2 g",
+      "Saturadas": "0,8 g",
+      "Hidratos de carbono": "11,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "1,8 g",
+      "Sal": "0,08 g",
+      "Valor energetico": "66 kcal",
+      "Valor energetico en KJ": "280 kJ"
+    },
+    "descripcion": "Bebida de fresa Dia Láctea pack 12 x 100 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 2.0,
+    "unidades": 12,
+    "peso_por_unidad": "100 g",
+    "peso_total": "1200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/254923",
+    "titulo": "Yogur líquido sabor fresa y plátano",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 g",
+      "Saturadas": "1,2 g",
+      "Hidratos de carbono": "11,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,6 g",
+      "Sal": "0,12 g",
+      "Valor energetico": "76 kcal",
+      "Valor energetico en KJ": "322 kJ"
+    },
+    "descripcion": "Yogur líquido sabor fresa y plátano Dia Láctea botella 1 Kg",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.49,
+    "unidades": 1,
+    "peso_por_unidad": "1 kg",
+    "peso_total": "1 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-y-batidos-proteicos/p/303676",
+    "titulo": "Bebida de yogur sabor fresa y plátano alta en proteínas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,6 g",
+      "Saturadas": "0,3 g",
+      "Hidratos de carbono": "4,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "66 kcal",
+      "Valor energetico en KJ": "282 kJ"
+    },
+    "descripcion": "Bebida de yogur sabor fresa y plátano alta en proteínas Dia Láctea botella 250 ml",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.25,
+    "unidades": 1,
+    "peso_por_unidad": "250 ml",
+    "peso_total": "250 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-bifidus-y-colesterol/p/252335",
+    "titulo": "Bífidus con nueces y cereales doble 0%",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,3 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "7,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,12 g",
+      "Valor energetico": "56 kcal",
+      "Valor energetico en KJ": "234 kJ"
+    },
+    "descripcion": "Bífidus con nueces y cereales doble 0% Dia pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-bifidus-y-colesterol/p/42065",
+    "titulo": "Bífidus con fresa doble 0%",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "6,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,17 g",
+      "Valor energetico": "45 kcal",
+      "Valor energetico en KJ": "192 kJ"
+    },
+    "descripcion": "Bífidus con fresa doble 0% Dia pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-bifidus-y-colesterol/p/262831",
+    "titulo": "Bífidus con kiwi y ciruela doble 0%",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0,4 g",
+      "Hidratos de carbono": "6,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "125 g",
+      "Sal": "0,17 g",
+      "Valor energetico": "50 kcal",
+      "Valor energetico en KJ": "209 kJ"
+    },
+    "descripcion": "Bífidus con kiwi y ciruela doble 0% Dia pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-bifidus-y-colesterol/p/307514",
+    "titulo": "Bebida láctea natural 0% azúcares añadidos",
+    "marca": "Diacol",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,2 g",
+      "Saturadas": "0,9 g",
+      "Hidratos de carbono": "3,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,9 g",
+      "Sal": "0,14 g",
+      "Valor energetico": "50 kcal",
+      "Valor energetico en KJ": "210 kJ"
+    },
+    "descripcion": "Bebida láctea natural 0% azúcares añadidos Diacol pack 6 x 100 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.89,
+    "unidades": 6,
+    "peso_por_unidad": "100 g",
+    "peso_total": "600 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/253810",
+    "titulo": "Kéfir",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,2 g",
+      "Saturadas": "1,9 g",
+      "Hidratos de carbono": "4,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,1 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "58 kcal",
+      "Valor energetico en KJ": "241 kJ"
+    },
+    "descripcion": "Kéfir Dia Láctea botella 500 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.55,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/308602",
+    "titulo": "Kéfir con arándanos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,2 g",
+      "Saturadas": "2,1 g",
+      "Hidratos de carbono": "8,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "79 kcal",
+      "Valor energetico en KJ": "331 kJ"
+    },
+    "descripcion": "Kéfir con arándanos Dia Láctea pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.75,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/307309",
+    "titulo": "Kéfir natural desnatado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,1 g",
+      "Saturadas": "0,1 g",
+      "Hidratos de carbono": "5,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,7 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "38 kcal",
+      "Valor energetico en KJ": "161 kJ"
+    },
+    "descripcion": "Kéfir natural desnatado Dia Láctea pack 4 x 180 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.89,
+    "unidades": 4,
+    "peso_por_unidad": "180 g",
+    "peso_total": "720 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/302721",
+    "titulo": "Kéfir cremoso suave",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5 g",
+      "Saturadas": "3,3 g",
+      "Hidratos de carbono": "3,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,3 g",
+      "Sal": "0,08 g",
+      "Valor energetico": "76 kcal",
+      "Valor energetico en KJ": "316 kJ"
+    },
+    "descripcion": "Kéfir cremoso suave Dia Láctea vaso 250 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.25,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-y-batidos-proteicos/p/303224",
+    "titulo": "Yogur de stracciatella alto en proteínas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0,3 g",
+      "Hidratos de carbono": "2,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "120 g",
+      "Sal": "0,14 g",
+      "Valor energetico": "53 kcal",
+      "Valor energetico en KJ": "221 kJ"
+    },
+    "descripcion": "Yogur de stracciatella alto en proteínas Dia Láctea pack 4 x 120 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.49,
+    "unidades": 4,
+    "peso_por_unidad": "120 g",
+    "peso_total": "480 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/natillas-flan-y-arroz-con-leche/p/305873",
+    "titulo": "Flan de huevo alto en proteínas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,3 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "5,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "100 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "66 kcal",
+      "Valor energetico en KJ": "281 kJ"
+    },
+    "descripcion": "Flan de huevo alto en proteínas Dia Láctea pack 4 x 100 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.99,
+    "unidades": 4,
+    "peso_por_unidad": "100 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/natillas-flan-y-arroz-con-leche/p/305872",
+    "titulo": "Natillas sabor vainilla alta en proteínas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,3 g",
+      "Saturadas": "0,9 g",
+      "Hidratos de carbono": "7,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "125 g",
+      "Sal": "0,2 g",
+      "Valor energetico": "82 kcal",
+      "Valor energetico en KJ": "345 kJ"
+    },
+    "descripcion": "Natillas sabor vainilla alta en proteínas Dia Láctea pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.79,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-altos-en-proteinas/p/308665",
+    "titulo": "Queso quark con fresa alto en proteínas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,4 g",
+      "Saturadas": "0,3 g",
+      "Hidratos de carbono": "3,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "200 g",
+      "Sal": "160 g",
+      "Valor energetico": "67 kcal",
+      "Valor energetico en KJ": "283 kJ"
+    },
+    "descripcion": "Queso quark con fresa alto en proteínas Dia Láctea 200 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.29,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-y-postres-infantiles/p/265288",
+    "titulo": "Petit de fresa y plátano",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,7 g",
+      "Saturadas": "1,7 g",
+      "Hidratos de carbono": "11,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,9 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "97 kcal",
+      "Valor energetico en KJ": "408 kJ"
+    },
+    "descripcion": "Petit de fresa y plátano Dia Láctea pack 6 x 50 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 0.99,
+    "unidades": 6,
+    "peso_por_unidad": "50 g",
+    "peso_total": "300 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-y-postres-infantiles/p/265287",
+    "titulo": "Petit de fresa",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,7 g",
+      "Saturadas": "1,7 g",
+      "Hidratos de carbono": "11,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,9 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "98 kcal",
+      "Valor energetico en KJ": "412 kJ"
+    },
+    "descripcion": "Petit de fresa Dia Láctea pack 6 x 50 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 0.99,
+    "unidades": 6,
+    "peso_por_unidad": "50 g",
+    "peso_total": "300 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-y-postres-infantiles/p/265284",
+    "titulo": "Petit de fresa líquido",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,5 g",
+      "Saturadas": "1,6 g",
+      "Hidratos de carbono": "12,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,4 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "89 kcal",
+      "Valor energetico en KJ": "375 kJ"
+    },
+    "descripcion": "Petit de fresa líquido Dia Láctea pack 4 x 80 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.95,
+    "unidades": 4,
+    "peso_por_unidad": "80 g",
+    "peso_total": "320 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-y-postres-infantiles/p/27687",
+    "titulo": "Petit de chocolate",
+    "marca": "Nesquik",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6,1 g",
+      "Saturadas": "4 g",
+      "Hidratos de carbono": "21,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0,5 g",
+      "Proteinas": "4,2 g",
+      "Sal": "0,54 g",
+      "Valor energetico": "160 kcal",
+      "Valor energetico en KJ": "676 kJ"
+    },
+    "descripcion": "Petit de chocolate Nesquik pack 6 x 60 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.85,
+    "unidades": 6,
+    "peso_por_unidad": "60 g",
+    "peso_total": "360 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-tradicionales/p/140493",
+    "titulo": "Copa de chocolate y nata",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 g",
+      "Saturadas": "2,2 g",
+      "Hidratos de carbono": "19 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "118 kcal",
+      "Valor energetico en KJ": "498 kJ"
+    },
+    "descripcion": "Copa de chocolate y nata Dia Caprichoso pack 4 x 115 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.39,
+    "unidades": 4,
+    "peso_por_unidad": "115 g",
+    "peso_total": "460 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-tradicionales/p/46923",
+    "titulo": "Mousse de chocolate con leche",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6 g",
+      "Saturadas": "3,6 g",
+      "Hidratos de carbono": "21,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,8 g",
+      "Sal": "0,15 g",
+      "Valor energetico": "159 kcal",
+      "Valor energetico en KJ": "668 kJ"
+    },
+    "descripcion": "Mousse de chocolate con leche Dia Caprichoso pack 4 x 60 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "60 g",
+    "peso_total": "240 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-tradicionales/p/252354",
+    "titulo": "Tiramisú",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,8 g",
+      "Saturadas": "6,8 g",
+      "Hidratos de carbono": "27 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,19 g",
+      "Valor energetico": "213 kcal",
+      "Valor energetico en KJ": "894 kJ"
+    },
+    "descripcion": "Tiramisú Dia Caprichoso pack 2 x 90 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.0,
+    "unidades": 2,
+    "peso_por_unidad": "90 g",
+    "peso_total": "180 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-tradicionales/p/300423",
+    "titulo": "Postre de torrija",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5,2 g",
+      "Saturadas": "2,2 g",
+      "Hidratos de carbono": "31 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,8 g",
+      "Sal": "0,09 g",
+      "Valor energetico": "186 kcal",
+      "Valor energetico en KJ": "777 kJ"
+    },
+    "descripcion": "Postre de torrija Dia Caprichoso pack 2 x 85 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.99,
+    "unidades": 2,
+    "peso_por_unidad": "85 g",
+    "peso_total": "170 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/natillas-flan-y-arroz-con-leche/p/85630",
+    "titulo": "Arroz con leche",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,9 g",
+      "Saturadas": "2,5 g",
+      "Hidratos de carbono": "22 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,6 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "136 kcal",
+      "Valor energetico en KJ": "570 kJ"
+    },
+    "descripcion": "Arroz con leche Dia Caprichoso pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.3,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/natillas-flan-y-arroz-con-leche/p/294946",
+    "titulo": "Natillas sabor vainilla",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,7 g",
+      "Saturadas": "1,8 g",
+      "Hidratos de carbono": "20 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,15 g",
+      "Valor energetico": "114 kcal",
+      "Valor energetico en KJ": "477 kJ"
+    },
+    "descripcion": "Natillas sabor vainilla Dia Caprichoso pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.05,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/natillas-flan-y-arroz-con-leche/p/294947",
+    "titulo": "Natillas de chocolate",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,1 g",
+      "Saturadas": "2,1 g",
+      "Hidratos de carbono": "21,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,5 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "126 kcal",
+      "Valor energetico en KJ": "536 kJ"
+    },
+    "descripcion": "Natillas de chocolate Dia Caprichoso pack 4 x 125 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.05,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/natillas-flan-y-arroz-con-leche/p/105814",
+    "titulo": "Flan de vainilla",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,6 g",
+      "Saturadas": "1 g",
+      "Hidratos de carbono": "18,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,4 g",
+      "Sal": "0,15 g",
+      "Valor energetico": "99 kcal",
+      "Valor energetico en KJ": "417 kJ"
+    },
+    "descripcion": "Flan de vainilla Dia Caprichoso pack 6 x 100 g",
+    "categorias": [
+      "yogures_y_postres"
+    ],
+    "precio_total": 1.15,
+    "unidades": 6,
+    "peso_por_unidad": "100 g",
+    "peso_total": "600 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/azucar-y-edulcorantes/p/81798",
+    "titulo": "Azúcar blanco",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "100 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "400 kcal",
+      "Valor energetico en KJ": "1700 kJ"
+    },
+    "descripcion": "Azúcar blanco Dia paquete 1 Kg",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "1 kg",
+    "peso_total": "1 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/azucar-y-edulcorantes/p/178",
+    "titulo": "Azúcar blanco",
+    "marca": "Azucarera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "100 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "400 kcal",
+      "Valor energetico en KJ": "1700 kJ"
+    },
+    "descripcion": "Azúcar blanco Azucarera paquete 1 Kg",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.07,
+    "unidades": 1,
+    "peso_por_unidad": "1 kg",
+    "peso_total": "1 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/azucar-y-edulcorantes/p/198631",
+    "titulo": "Edulcorante líquido",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Edulcorante líquido Dia botella 200 ml",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.13,
+    "unidades": 1,
+    "peso_por_unidad": "200 ml",
+    "peso_total": "200 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/azucar-y-edulcorantes/p/304818",
+    "titulo": "Azúcar moreno de caña integral",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "100 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "402 kcal",
+      "Valor energetico en KJ": "1709 kJ"
+    },
+    "descripcion": "Azúcar moreno de caña integral Dia bolsa 1 Kg",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.89,
+    "unidades": 1,
+    "peso_por_unidad": "1 kg",
+    "peso_total": "1 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/297",
+    "titulo": "Miel de flores Mielove de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "82,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,2 g",
+      "Sal": "0,04 g",
+      "Valor energetico": "330 kcal",
+      "Valor energetico en KJ": "1405 kJ"
+    },
+    "descripcion": "Miel de flores Mielove de Dia frasco 1 Kg",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 4.89,
+    "unidades": 1,
+    "peso_por_unidad": "1 kg",
+    "peso_total": "1 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/133109",
+    "titulo": "Miel de flores antigoteo Mielove de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "82,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,2 g",
+      "Sal": "0,04 g",
+      "Valor energetico": "330 kcal",
+      "Valor energetico en KJ": "1405 kJ"
+    },
+    "descripcion": "Miel de flores antigoteo Mielove de Dia frasco 500 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 3.19,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/222956",
+    "titulo": "Miel de eucalipto Mielove de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "83 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "335 kcal",
+      "Valor energetico en KJ": "1405 kJ"
+    },
+    "descripcion": "Miel de eucalipto Mielove de Dia frasco 350 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 3.19,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/miel/p/302704",
+    "titulo": "Miel de montaña Mielove de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "83 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "331 kcal",
+      "Valor energetico en KJ": "1407 kJ"
+    },
+    "descripcion": "Miel de montaña Mielove de Dia frasco 500 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 4.99,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/mermeladas-y-frutas-en-almibar/p/135272",
+    "titulo": "Mermelada de fresa extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "48 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0 g",
+      "Valor energetico": "197 kcal",
+      "Valor energetico en KJ": "836 kJ"
+    },
+    "descripcion": "Mermelada de fresa extra Dia Fruticampo frasco 390 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.5,
+    "unidades": 1,
+    "peso_por_unidad": "390 g",
+    "peso_total": "390 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/mermeladas-y-frutas-en-almibar/p/135271",
+    "titulo": "Mermelada de melocotón extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "48 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0 g",
+      "Valor energetico": "197 kcal",
+      "Valor energetico en KJ": "837 kJ"
+    },
+    "descripcion": "Mermelada de melocotón extra Dia Fruticampo frasco 390 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.5,
+    "unidades": 1,
+    "peso_por_unidad": "390 g",
+    "peso_total": "390 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/mermeladas-y-frutas-en-almibar/p/141570",
+    "titulo": "Mermelada de fresa 0% sin azúcares añadidos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "3,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0 g",
+      "Valor energetico": "19 kcal",
+      "Valor energetico en KJ": "82 kJ"
+    },
+    "descripcion": "Mermelada de fresa 0% sin azúcares añadidos Dia Fruticampo frasco 330 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.6,
+    "unidades": 1,
+    "peso_por_unidad": "330 g",
+    "peso_total": "330 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-fruta/p/270",
+    "titulo": "Melocotón en almíbar",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "14,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "58 kcal",
+      "Valor energetico en KJ": "247 kJ"
+    },
+    "descripcion": "Melocotón en almíbar Dia Fruticampo 480 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 2.05,
+    "unidades": 1,
+    "peso_por_unidad": "480 g",
+    "peso_total": "480 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/10446",
+    "titulo": "Crema al cacao duo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "31 g",
+      "Saturadas": "5 g",
+      "Hidratos de carbono": "60 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,2 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "539 kcal",
+      "Valor energetico en KJ": "2252 kJ"
+    },
+    "descripcion": "Crema al cacao duo Dia Temptation bote 400 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.89,
+    "unidades": 1,
+    "peso_por_unidad": "400 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/10445",
+    "titulo": "Crema al cacao",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "32 g",
+      "Saturadas": "5 g",
+      "Hidratos de carbono": "57 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,5 g",
+      "Sal": "0,09 g",
+      "Valor energetico": "540 kcal",
+      "Valor energetico en KJ": "2254 kJ"
+    },
+    "descripcion": "Crema al cacao Dia Temptation bote 400 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.89,
+    "unidades": 1,
+    "peso_por_unidad": "400 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/301463",
+    "titulo": "Crema de avellanas y cacao",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "30,7 g",
+      "Saturadas": "10 g",
+      "Hidratos de carbono": "56,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,2 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "533 kcal",
+      "Valor energetico en KJ": "2227 kJ"
+    },
+    "descripcion": "Crema de avellanas y cacao Dia Temptation frasco 380 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 2.33,
+    "unidades": 1,
+    "peso_por_unidad": "380 g",
+    "peso_total": "380 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/cremas-de-cacao/p/49869",
+    "titulo": "Crema de cacao con avellanas",
+    "marca": "Nutella",
+    "valores_nutricionales_100_g": {
+      "Grasas": "30,9 g",
+      "Saturadas": "10,6 g",
+      "Hidratos de carbono": "57,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,3 g",
+      "Sal": "0,11 g",
+      "Valor energetico": "539 kcal",
+      "Valor energetico en KJ": "2252 kJ"
+    },
+    "descripcion": "Crema de cacao con avellanas Nutella bote 350 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 3.99,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/243992",
+    "titulo": "Perlitas de chocolate",
+    "marca": "Dr. Oetker",
+    "valores_nutricionales_100_g": {
+      "Grasas": "26 g",
+      "Saturadas": "16 g",
+      "Hidratos de carbono": "60 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,2 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "504 kcal",
+      "Valor energetico en KJ": "2108 kJ"
+    },
+    "descripcion": "Perlitas de chocolate Dr. Oetker bolsa 100 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 3.79,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/161790",
+    "titulo": "Sirope de chocolate Delimagic de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,9 g",
+      "Saturadas": "0,5 g",
+      "Hidratos de carbono": "75 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "1,7 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "320 kcal",
+      "Valor energetico en KJ": "1358 kJ"
+    },
+    "descripcion": "Sirope de chocolate Delimagic de Dia botella 295 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.79,
+    "unidades": 1,
+    "peso_por_unidad": "295 g",
+    "peso_total": "295 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/308031",
+    "titulo": "Fideos de chocolate negro",
+    "marca": "Dekora",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "15 g",
+      "Hidratos de carbono": "59 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6 g",
+      "Sal": "0,02 g",
+      "Valor energetico": "501 kcal",
+      "Valor energetico en KJ": "2094 kJ"
+    },
+    "descripcion": "Fideos de chocolate negro Dekora bolsa 100 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.79,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/preparados-para-postres/p/106037",
+    "titulo": "Preparado para crepes Delimagic de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 g",
+      "Saturadas": "0,5 g",
+      "Hidratos de carbono": "74,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9,4 g",
+      "Sal": "1,31 g",
+      "Valor energetico": "357 kcal",
+      "Valor energetico en KJ": "1513 kJ"
+    },
+    "descripcion": "Preparado para crepes Delimagic de Dia frasco 200 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.99,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/chocolates-y-bombones/p/306068",
+    "titulo": "Mini barritas de chocolate con leche",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "34,9 g",
+      "Saturadas": "20,5 g",
+      "Hidratos de carbono": "50,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9,1 g",
+      "Sal": "0,31 g",
+      "Valor energetico": "555 kcal",
+      "Valor energetico en KJ": "2315 kJ"
+    },
+    "descripcion": "Mini barritas de chocolate con leche Dia Temptation caja 50 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 0.85,
+    "unidades": 1,
+    "peso_por_unidad": "50 g",
+    "peso_total": "50 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/chocolates-y-bombones/p/235055",
+    "titulo": "Chocolate negro 85% cacao",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "43 g",
+      "Saturadas": "27 g",
+      "Hidratos de carbono": "22 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11 g",
+      "Sal": "0,06 g",
+      "Valor energetico": "542 kcal",
+      "Valor energetico en KJ": "2244 kJ"
+    },
+    "descripcion": "Chocolate negro 85% cacao Dia Temptation 100 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.95,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/chocolates-y-bombones/p/300067",
+    "titulo": "Chocolate con leche",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "32 g",
+      "Saturadas": "20 g",
+      "Hidratos de carbono": "58 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,6 g",
+      "Sal": "0,19 g",
+      "Valor energetico": "546 kcal",
+      "Valor energetico en KJ": "2279 kJ"
+    },
+    "descripcion": "Chocolate con leche Dia Temptation 100 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/chocolates-y-bombones/p/300066",
+    "titulo": "Chocolate blanco",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "31 g",
+      "Saturadas": "19 g",
+      "Hidratos de carbono": "59 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6 g",
+      "Sal": "0,3 g",
+      "Valor energetico": "539 kcal",
+      "Valor energetico en KJ": "2252 kJ"
+    },
+    "descripcion": "Chocolate blanco Dia Temptation 100 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.15,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/caramelos-chicles-y-golosinas/p/306400",
+    "titulo": "Golosinas surtidas mix brillo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "75 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "322 kcal",
+      "Valor energetico en KJ": "1367 kJ"
+    },
+    "descripcion": "Golosinas surtidas mix brillo Dia Marcelo Caramelo bolsa 200 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.15,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/caramelos-chicles-y-golosinas/p/306401",
+    "titulo": "Golosinas surtidas mix pica",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "76 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,6 g",
+      "Sal": "0,1 g",
+      "Valor energetico": "315 kcal",
+      "Valor energetico en KJ": "1339 kJ"
+    },
+    "descripcion": "Golosinas surtidas mix pica Dia Marcelo Caramelo bolsa 200 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.15,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/caramelos-chicles-y-golosinas/p/306392",
+    "titulo": "Golosinas fruta tropical con 8% zumo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,2 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "78 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,3 g",
+      "Sal": "0,2 g",
+      "Valor energetico": "336 kcal",
+      "Valor energetico en KJ": "1427 kJ"
+    },
+    "descripcion": "Golosinas fruta tropical con 8% zumo Dia Marcelo Caramelo bolsa 100 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 0.95,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/azucar-chocolates-y-caramelos/caramelos-chicles-y-golosinas/p/161768",
+    "titulo": "Regaliz rojo torcidas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,5 g",
+      "Saturadas": "3,4 g",
+      "Hidratos de carbono": "75 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,5 g",
+      "Sal": "0,13 g",
+      "Valor energetico": "346 kcal",
+      "Valor energetico en KJ": "1466 kJ"
+    },
+    "descripcion": "Regaliz rojo torcidas Dia Marcelo Caramelo bolsa 225 g",
+    "categorias": [
+      "azucar_y_chocolates"
+    ],
+    "precio_total": 1.15,
+    "unidades": 1,
+    "peso_por_unidad": "225 g",
+    "peso_total": "225 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/273810",
+    "titulo": "Pechuga de pavo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "160 g",
+      "Valor energetico": "74 kcal",
+      "Valor energetico en KJ": "316 kJ"
+    },
+    "descripcion": "Pechuga de pavo Dia Nuestra Alacena 2 x 200 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 3.95,
+    "unidades": 2,
+    "peso_por_unidad": "200 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/273737",
+    "titulo": "Jamón cocido extra 97%",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 g",
+      "Saturadas": "0,7 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "20 g",
+      "Sal": "160 g",
+      "Valor energetico": "100 kcal",
+      "Valor energetico en KJ": "423 kJ"
+    },
+    "descripcion": "Jamón cocido extra 97% Dia Nuestra Alacena 150 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.99,
+    "unidades": 1,
+    "peso_por_unidad": "150 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/273957",
+    "titulo": "Jamón cocido extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,5 g",
+      "Saturadas": "0,9 g",
+      "Hidratos de carbono": "0,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "98 kcal",
+      "Valor energetico en KJ": "412 kJ"
+    },
+    "descripcion": "Jamón cocido extra Dia Nuestra Alacena 2 x 225 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 3.45,
+    "unidades": 2,
+    "peso_por_unidad": "225 g",
+    "peso_total": "450 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/308802",
+    "titulo": "Lacón cortado a mano",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,1 g",
+      "Saturadas": "1,2 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "19,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "110 kcal",
+      "Valor energetico en KJ": "463 kJ"
+    },
+    "descripcion": "Lacón cortado a mano Dia Nuestra Alacena 170 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "170 g",
+    "peso_total": "170 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/274051",
+    "titulo": "Jamón Serrano",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 g",
+      "Saturadas": "5,7 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "27 g",
+      "Sal": "160 g",
+      "Valor energetico": "254 kcal",
+      "Valor energetico en KJ": "1060 kJ"
+    },
+    "descripcion": "Jamón Serrano Dia Nuestra Alacena 200 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 3.69,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/274059",
+    "titulo": "Mini taquitos de jamón curado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 g",
+      "Saturadas": "5,7 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "32 g",
+      "Sal": "160 g",
+      "Valor energetico": "274 kcal",
+      "Valor energetico en KJ": "1145 kJ"
+    },
+    "descripcion": "Mini taquitos de jamón curado Dia Nuestra Alacena 2 x 75 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.21,
+    "unidades": 2,
+    "peso_por_unidad": "75 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/274053",
+    "titulo": "Jamón serrano lonchas extrafinas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 g",
+      "Saturadas": "5,7 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "27 g",
+      "Sal": "160 g",
+      "Valor energetico": "254 kcal",
+      "Valor energetico en KJ": "1060 kJ"
+    },
+    "descripcion": "Jamón serrano lonchas extrafinas Dia Nuestra Alacena 120 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.45,
+    "unidades": 1,
+    "peso_por_unidad": "120 g",
+    "peso_total": "120 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/307223",
+    "titulo": "Jamón curado gran reserva 50% Duroc",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23,9 g",
+      "Saturadas": "9,5 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "29,6 g",
+      "Sal": "160 g",
+      "Valor energetico": "334 kcal",
+      "Valor energetico en KJ": "1393 kJ"
+    },
+    "descripcion": "Jamón curado gran reserva 50% Duroc Dia Nuestra Alacena 90 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.29,
+    "unidades": 1,
+    "peso_por_unidad": "90 g",
+    "peso_total": "90 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/273988",
+    "titulo": "Chorizo extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 g",
+      "Saturadas": "7 g",
+      "Hidratos de carbono": "1,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "261 kcal",
+      "Valor energetico en KJ": "1083 kJ"
+    },
+    "descripcion": "Chorizo extra Dia Nuestra Alacena 2 x 100 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.66,
+    "unidades": 2,
+    "peso_por_unidad": "100 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/274140",
+    "titulo": "Salchichón extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "19,5 g",
+      "Saturadas": "6,8 g",
+      "Hidratos de carbono": "5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "19 g",
+      "Sal": "160 g",
+      "Valor energetico": "272 kcal",
+      "Valor energetico en KJ": "1130 kJ"
+    },
+    "descripcion": "Salchichón extra Dia Nuestra Alacena 2 x 100 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.63,
+    "unidades": 2,
+    "peso_por_unidad": "100 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/274137",
+    "titulo": "Espetec extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "37 g",
+      "Saturadas": "13 g",
+      "Hidratos de carbono": "4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "28,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "463 kcal",
+      "Valor energetico en KJ": "1921 kJ"
+    },
+    "descripcion": "Espetec extra Dia Nuestra Alacena 170 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.25,
+    "unidades": 1,
+    "peso_por_unidad": "170 g",
+    "peso_total": "170 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/307966",
+    "titulo": "Pepperoni",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "40 g",
+      "Saturadas": "16 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "20 g",
+      "Sal": "160 g",
+      "Valor energetico": "444 kcal",
+      "Valor energetico en KJ": "1837 kJ"
+    },
+    "descripcion": "Pepperoni Dia Nuestra Alacena 75 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.19,
+    "unidades": 1,
+    "peso_por_unidad": "75 g",
+    "peso_total": "75 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/salchichas-y-bacon/p/273750",
+    "titulo": "Bacon en tiras",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "9 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "15 g",
+      "Sal": "160 g",
+      "Valor energetico": "289 kcal",
+      "Valor energetico en KJ": "1197 kJ"
+    },
+    "descripcion": "Bacon en tiras Dia Nuestra Alacena 2 x 100 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.99,
+    "unidades": 2,
+    "peso_por_unidad": "100 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/salchichas-y-bacon/p/273749",
+    "titulo": "Bacon en lonchas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "9 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "15 g",
+      "Sal": "160 g",
+      "Valor energetico": "289 kcal",
+      "Valor energetico en KJ": "1197 kJ"
+    },
+    "descripcion": "Bacon en lonchas Dia Nuestra Alacena 200 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.19,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/salchichas-y-bacon/p/303819",
+    "titulo": "Salchichas frankfurt",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15 g",
+      "Saturadas": "5 g",
+      "Hidratos de carbono": "2,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "13 g",
+      "Sal": "160 g",
+      "Valor energetico": "198 kcal",
+      "Valor energetico en KJ": "824 kJ"
+    },
+    "descripcion": "Salchichas frankfurt Dia Funky Frank 2 x 160 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 0.99,
+    "unidades": 2,
+    "peso_por_unidad": "160 g",
+    "peso_total": "320 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/salchichas-y-bacon/p/303820",
+    "titulo": "Salchichas frankfurt con queso",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 g",
+      "Saturadas": "6 g",
+      "Hidratos de carbono": "2,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "13 g",
+      "Sal": "160 g",
+      "Valor energetico": "223 kcal",
+      "Valor energetico en KJ": "924 kJ"
+    },
+    "descripcion": "Salchichas frankfurt con queso Dia Funky Frank 2 x 140 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 0.99,
+    "unidades": 2,
+    "peso_por_unidad": "140 g",
+    "peso_total": "280 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/chopped-y-mortadela/p/273961",
+    "titulo": "Mortadela con aceitunas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "21 g",
+      "Saturadas": "7,4 g",
+      "Hidratos de carbono": "6,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "160 g",
+      "Valor energetico": "254 kcal",
+      "Valor energetico en KJ": "1054 kJ"
+    },
+    "descripcion": "Mortadela con aceitunas Dia Nuestra Alacena 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.25,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/chopped-y-mortadela/p/273960",
+    "titulo": "Mortadela",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24 g",
+      "Saturadas": "8,4 g",
+      "Hidratos de carbono": "4,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "160 g",
+      "Valor energetico": "282 kcal",
+      "Valor energetico en KJ": "1168 kJ"
+    },
+    "descripcion": "Mortadela Dia Nuestra Alacena 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.25,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/chopped-y-mortadela/p/273959",
+    "titulo": "Chopped pork",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "4,2 g",
+      "Hidratos de carbono": "5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "160 g",
+      "Valor energetico": "176 kcal",
+      "Valor energetico en KJ": "733 kJ"
+    },
+    "descripcion": "Chopped pork Dia Nuestra Alacena 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.4,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/chopped-y-mortadela/p/273756",
+    "titulo": "Mortadela Bologna I.G.P.",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "9,5 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "15 g",
+      "Sal": "160 g",
+      "Valor energetico": "285 kcal",
+      "Valor energetico en KJ": "1180 kJ"
+    },
+    "descripcion": "Mortadela Bologna I.G.P. Dia Selección Mundial 150 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.89,
+    "unidades": 1,
+    "peso_por_unidad": "150 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/306350",
+    "titulo": "Paté clásico",
+    "marca": "La Piara",
+    "valores_nutricionales_100_g": {
+      "Grasas": "19 g",
+      "Saturadas": "6,7 g",
+      "Hidratos de carbono": "2,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "7,4 g",
+      "Sal": "160 g",
+      "Valor energetico": "214 kcal",
+      "Valor energetico en KJ": "885 kJ"
+    },
+    "descripcion": "Paté clásico La piara 2 x 75 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 2,
+    "peso_por_unidad": "75 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/39997",
+    "titulo": "Paté a la pimienta",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "26,5 g",
+      "Saturadas": "9,9 g",
+      "Hidratos de carbono": "1,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11,3 g",
+      "Sal": "160 g",
+      "Valor energetico": "289 kcal",
+      "Valor energetico en KJ": "1195 kJ"
+    },
+    "descripcion": "Paté a la pimienta Dia Nuestra Alacena 125 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 0.86,
+    "unidades": 1,
+    "peso_por_unidad": "125 g",
+    "peso_total": "125 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/293539",
+    "titulo": "Paté de atún",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "13,9 g",
+      "Saturadas": "1,6 g",
+      "Hidratos de carbono": "5,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "183 kcal",
+      "Valor energetico en KJ": "761 kJ"
+    },
+    "descripcion": "Paté de atún Dia Nuestra Alacena 2 x 75 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.55,
+    "unidades": 2,
+    "peso_por_unidad": "75 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/307381",
+    "titulo": "Paté de sardinas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "33,2 g",
+      "Saturadas": "4,4 g",
+      "Hidratos de carbono": "6,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "352 kcal",
+      "Valor energetico en KJ": "1460 kJ"
+    },
+    "descripcion": "Paté de sardinas Dia Nuestra Alacena 110 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.49,
+    "unidades": 1,
+    "peso_por_unidad": "110 g",
+    "peso_total": "110 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/108586",
+    "titulo": "Queso semicurado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "32 g",
+      "Saturadas": "22 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "22 g",
+      "Sal": "160 g",
+      "Valor energetico": "380 kcal",
+      "Valor energetico en KJ": "1575 kJ"
+    },
+    "descripcion": "Queso semicurado Dia El Cencerro 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.46,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/108589",
+    "titulo": "Queso curado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "34 g",
+      "Saturadas": "24 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "23 g",
+      "Sal": "160 g",
+      "Valor energetico": "402 kcal",
+      "Valor energetico en KJ": "1666 kJ"
+    },
+    "descripcion": "Queso curado Dia El Cencerro 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/304698",
+    "titulo": "Queso tierno mezcla",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "32 g",
+      "Saturadas": "21,6 g",
+      "Hidratos de carbono": "1,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "22,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "384 kcal",
+      "Valor energetico en KJ": "1594 kJ"
+    },
+    "descripcion": "Queso tierno mezcla Dia El Cencerro 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.24,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/304214",
+    "titulo": "Queso de oveja curado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "36 g",
+      "Saturadas": "24 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "24 g",
+      "Sal": "160 g",
+      "Valor energetico": "424 kcal",
+      "Valor energetico en KJ": "1757 kJ"
+    },
+    "descripcion": "Queso de oveja curado Dia El Cencerro 200 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-en-lonchas-y-rallado/p/13096",
+    "titulo": "Queso mozzarella rallado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22,5 g",
+      "Saturadas": "15 g",
+      "Hidratos de carbono": "1,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "24,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "304 kcal",
+      "Valor energetico en KJ": "1263 kJ"
+    },
+    "descripcion": "Queso mozzarella rallado Dia Láctea 200 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.65,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-en-lonchas-y-rallado/p/263231",
+    "titulo": "Queso gouda",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "27,9 g",
+      "Saturadas": "19,3 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "23,1 g",
+      "Sal": "160 g",
+      "Valor energetico": "344 kcal",
+      "Valor energetico en KJ": "1426 kJ"
+    },
+    "descripcion": "Queso gouda Dia Selección Mundial 240 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.8,
+    "unidades": 1,
+    "peso_por_unidad": "240 g",
+    "peso_total": "240 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-en-lonchas-y-rallado/p/50652",
+    "titulo": "Queso rallado 4 quesos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "30 g",
+      "Saturadas": "21 g",
+      "Hidratos de carbono": "1,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "26 g",
+      "Sal": "160 g",
+      "Valor energetico": "370 kcal",
+      "Valor energetico en KJ": "1519 kJ"
+    },
+    "descripcion": "Queso rallado 4 quesos Dia Láctea 200 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 2.09,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-en-lonchas-y-rallado/p/303978",
+    "titulo": "Queso tex-mex picante rallado",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "29,1 g",
+      "Saturadas": "20,3 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "21,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "352 kcal",
+      "Valor energetico en KJ": "1472 kJ"
+    },
+    "descripcion": "Queso tex-mex picante rallado Dia Láctea 150 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.39,
+    "unidades": 1,
+    "peso_por_unidad": "150 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/263518",
+    "titulo": "Queso de untar natural",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "16 g",
+      "Hidratos de carbono": "3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "252 kcal",
+      "Valor energetico en KJ": "1039 kJ"
+    },
+    "descripcion": "Queso de untar natural Dia Láctea 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.21,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/263519",
+    "titulo": "Queso de untar natural light",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 g",
+      "Saturadas": "10 g",
+      "Hidratos de carbono": "3,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "7,8 g",
+      "Sal": "160 g",
+      "Valor energetico": "190 kcal",
+      "Valor energetico en KJ": "789 kJ"
+    },
+    "descripcion": "Queso de untar natural light Dia Láctea 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.21,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/115669",
+    "titulo": "Queso fresco de Burgos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "8 g",
+      "Hidratos de carbono": "3,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11 g",
+      "Sal": "160 g",
+      "Valor energetico": "166 kcal",
+      "Valor energetico en KJ": "692 kJ"
+    },
+    "descripcion": "Queso fresco de Burgos Dia Láctea 4 x 62.5 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "5 g",
+    "peso_total": "5 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/115196",
+    "titulo": "Queso fresco de vaca",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 g",
+      "Saturadas": "9,9 g",
+      "Hidratos de carbono": "2,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "1 g",
+      "Proteinas": "13,3 g",
+      "Sal": "160 g",
+      "Valor energetico": "190 kcal",
+      "Valor energetico en KJ": "794 kJ"
+    },
+    "descripcion": "Queso fresco de vaca Dia El Cencerro 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.7,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/108698",
+    "titulo": "Mozzarella fior di latte 100% natural",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17,5 g",
+      "Saturadas": "12,3 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18,2 g",
+      "Sal": "160 g",
+      "Valor energetico": "232 kcal",
+      "Valor energetico en KJ": "966 kJ"
+    },
+    "descripcion": "Mozzarella fior di latte 100% natural Dia Selección Mundial 125 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.19,
+    "unidades": 1,
+    "peso_por_unidad": "125 g",
+    "peso_total": "125 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/303551",
+    "titulo": "Queso fresco de Burgos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "8 g",
+      "Hidratos de carbono": "3,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11 g",
+      "Sal": "160 g",
+      "Valor energetico": "166 kcal",
+      "Valor energetico en KJ": "692 kJ"
+    },
+    "descripcion": "Queso fresco de Burgos Dia Láctea 250 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.09,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-azul-roquefort-y-cabra/p/306094",
+    "titulo": "Queso azul",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "32 g",
+      "Saturadas": "22 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "160 g",
+      "Valor energetico": "368 kcal",
+      "Valor energetico en KJ": "1524 kJ"
+    },
+    "descripcion": "Queso azul Dia Láctea 100 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.36,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-azul-roquefort-y-cabra/p/295596",
+    "titulo": "Medallones de queso de cabra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24,1 g",
+      "Saturadas": "17 g",
+      "Hidratos de carbono": "2,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "15,1 g",
+      "Sal": "160 g",
+      "Valor energetico": "298 kcal",
+      "Valor energetico en KJ": "1233 kJ"
+    },
+    "descripcion": "Medallones de queso de cabra Dia Láctea 100 g",
+    "categorias": [
+      "charcuteria_y_quesos"
+    ],
+    "precio_total": 1.45,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/32812",
+    "titulo": "Galletas rellenas de crema de chocolate Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 g",
+      "Saturadas": "9 g",
+      "Hidratos de carbono": "67 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "4 g",
+      "Proteinas": "0 g",
+      "Sal": "0,45 g",
+      "Valor energetico": "480 kcal",
+      "Valor energetico en KJ": "2011 kJ"
+    },
+    "descripcion": "Galletas rellenas de crema de chocolate Galleteca de Dia paquete 500 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.3,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/149293",
+    "titulo": "Galletas dorada maría Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "74 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2 g",
+      "Proteinas": "5,7 g",
+      "Sal": "0,73 g",
+      "Valor energetico": "458 kcal",
+      "Valor energetico en KJ": "1926 kJ"
+    },
+    "descripcion": "Galletas dorada maría Galleteca de Dia paquete 800 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.39,
+    "unidades": 1,
+    "peso_por_unidad": "800 g",
+    "peso_total": "800 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/10410",
+    "titulo": "Galletas digestive con chocolate Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 g",
+      "Saturadas": "6 g",
+      "Hidratos de carbono": "63 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "3,6 g",
+      "Proteinas": "6 g",
+      "Sal": "1,4 g",
+      "Valor energetico": "463 kcal",
+      "Valor energetico en KJ": "1942 kJ"
+    },
+    "descripcion": "Galletas digestive con chocolate Galleteca de Dia paquete 300 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.4,
+    "unidades": 1,
+    "peso_por_unidad": "300 g",
+    "peso_total": "300 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/309213",
+    "titulo": "Galletas pretzel rosa Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20,6 g",
+      "Saturadas": "16,7 g",
+      "Hidratos de carbono": "65,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,2 g",
+      "Sal": "2,7 g",
+      "Valor energetico": "484 kcal",
+      "Valor energetico en KJ": "2029 kJ"
+    },
+    "descripcion": "Galletas pretzel rosa Galleteca de Dia 100 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.59,
+    "unidades": 1,
+    "peso_por_unidad": "100 g",
+    "peso_total": "100 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/220178",
+    "titulo": "Mini galletas con pepitas de chocolate Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23,7 g",
+      "Saturadas": "11,9 g",
+      "Hidratos de carbono": "62 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,9 g",
+      "Sal": "0,84 g",
+      "Valor energetico": "492 kcal",
+      "Valor energetico en KJ": "2060 kJ"
+    },
+    "descripcion": "Mini galletas con pepitas de chocolate Galleteca de Dia caja 160 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.4,
+    "unidades": 1,
+    "peso_por_unidad": "160 g",
+    "peso_total": "160 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/303710",
+    "titulo": "Galletas rellenas de caramelo salado Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22,9 g",
+      "Saturadas": "9,7 g",
+      "Hidratos de carbono": "65,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5 g",
+      "Sal": "0,48 g",
+      "Valor energetico": "493 kcal",
+      "Valor energetico en KJ": "2064 kJ"
+    },
+    "descripcion": "Galletas rellenas de caramelo salado Galleteca de Dia bolsa 120 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.45,
+    "unidades": 1,
+    "peso_por_unidad": "120 g",
+    "peso_total": "120 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/220175",
+    "titulo": "Galletas cubiertas de chocolate con leche Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22 g",
+      "Saturadas": "14 g",
+      "Hidratos de carbono": "66 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2,8 g",
+      "Proteinas": "5,8 g",
+      "Sal": "0,48 g",
+      "Valor energetico": "491 kcal",
+      "Valor energetico en KJ": "2057 kJ"
+    },
+    "descripcion": "Galletas cubiertas de chocolate con leche Galleteca de Dia caja 150 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.4,
+    "unidades": 1,
+    "peso_por_unidad": "150 g",
+    "peso_total": "150 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/220172",
+    "titulo": "Barquillos rellenos de cacao Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "28 g",
+      "Saturadas": "14 g",
+      "Hidratos de carbono": "60 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "5,9 g",
+      "Proteinas": "5,9 g",
+      "Sal": "0,18 g",
+      "Valor energetico": "521 kcal",
+      "Valor energetico en KJ": "2179 kJ"
+    },
+    "descripcion": "Barquillos rellenos de cacao Galleteca de Dia bolsa 210 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.15,
+    "unidades": 1,
+    "peso_por_unidad": "210 g",
+    "peso_total": "210 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/12008",
+    "titulo": "Galletas relieve Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 g",
+      "Saturadas": "2,9 g",
+      "Hidratos de carbono": "70 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,5 g",
+      "Sal": "0,38 g",
+      "Valor energetico": "474 kcal",
+      "Valor energetico en KJ": "1991 kJ"
+    },
+    "descripcion": "Galletas relieve Galleteca de Dia caja 735 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.59,
+    "unidades": 1,
+    "peso_por_unidad": "735 g",
+    "peso_total": "735 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/13068",
+    "titulo": "Roscos de galleta con chocolate blanco chocoaros Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "14 g",
+      "Hidratos de carbono": "64 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2 g",
+      "Proteinas": "6,4 g",
+      "Sal": "0,5 g",
+      "Valor energetico": "511 kcal",
+      "Valor energetico en KJ": "2138 kJ"
+    },
+    "descripcion": "Roscos de galleta con chocolate blanco chocoaros Galleteca de Dia bolsa 128 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "128 g",
+    "peso_total": "128 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/169611",
+    "titulo": "Galletas hookies tuestis",
+    "marca": "Gullón",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15 g",
+      "Saturadas": "1,4 g",
+      "Hidratos de carbono": "71 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "4,5 g",
+      "Proteinas": "7,5 g",
+      "Sal": "0,68 g",
+      "Valor energetico": "458 kcal",
+      "Valor energetico en KJ": "1926 kJ"
+    },
+    "descripcion": "Galletas hookies tuestis Gullón caja 400 + 200 g gratis",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.25,
+    "unidades": 1,
+    "peso_por_unidad": "200 g",
+    "peso_total": "200 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/220174",
+    "titulo": "Galletas de cacao rellenas de crema Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20,1 g",
+      "Saturadas": "10 g",
+      "Hidratos de carbono": "64,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,4 g",
+      "Sal": "0,95 g",
+      "Valor energetico": "461 kcal",
+      "Valor energetico en KJ": "1928 kJ"
+    },
+    "descripcion": "Galletas de cacao rellenas de crema Galleteca de Dia caja 220 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 0.83,
+    "unidades": 1,
+    "peso_por_unidad": "220 g",
+    "peso_total": "220 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/148067",
+    "titulo": "Galletas de desayuno",
+    "marca": "Cuétara",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "73 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2,9 g",
+      "Proteinas": "7,5 g",
+      "Sal": "0,68 g",
+      "Valor energetico": "463 kcal",
+      "Valor energetico en KJ": "1947 kJ"
+    },
+    "descripcion": "Galletas de desayuno Cuétara Tostarica caja 570 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 2.95,
+    "unidades": 1,
+    "peso_por_unidad": "570 g",
+    "peso_total": "570 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/110671",
+    "titulo": "Galletas con pepitas de chocolate Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "13 g",
+      "Hidratos de carbono": "63 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,4 g",
+      "Sal": "0,55 g",
+      "Valor energetico": "506 kcal",
+      "Valor energetico en KJ": "2117 kJ"
+    },
+    "descripcion": "Galletas con pepitas de chocolate Galleteca de Dia bolsa 225 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.5,
+    "unidades": 1,
+    "peso_por_unidad": "225 g",
+    "peso_total": "225 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/37967",
+    "titulo": "Galletas de cereales con vitaminas",
+    "marca": "Artiach",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 g",
+      "Saturadas": "1,7 g",
+      "Hidratos de carbono": "71 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2,5 g",
+      "Proteinas": "5,7 g",
+      "Sal": "1,1 g",
+      "Valor energetico": "474 kcal",
+      "Valor energetico en KJ": "1990 kJ"
+    },
+    "descripcion": "Galletas de cereales con vitaminas Artiach Dinosaurus caja 411 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 3.49,
+    "unidades": 1,
+    "peso_por_unidad": "411 g",
+    "peso_total": "411 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/294639",
+    "titulo": "Galleta con tres chocolates",
+    "marca": "El Molino",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Galleta con tres chocolates El molino de Dia 76 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 0.89,
+    "unidades": 1,
+    "peso_por_unidad": "76 g",
+    "peso_total": "76 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/302577",
+    "titulo": "Galletas digestive Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17 g",
+      "Saturadas": "2 g",
+      "Hidratos de carbono": "70 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "3,6 g",
+      "Proteinas": "6 g",
+      "Sal": "1,6 g",
+      "Valor energetico": "464 kcal",
+      "Valor energetico en KJ": "1950 kJ"
+    },
+    "descripcion": "Galletas digestive Galleteca de Dia paquete 400 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 0.89,
+    "unidades": 1,
+    "peso_por_unidad": "400 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/141787",
+    "titulo": "Galletas digestive con avena y trigo Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "21 g",
+      "Saturadas": "2,3 g",
+      "Hidratos de carbono": "61 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "6,8 g",
+      "Proteinas": "7,5 g",
+      "Sal": "1,1 g",
+      "Valor energetico": "477 kcal",
+      "Valor energetico en KJ": "1996 kJ"
+    },
+    "descripcion": "Galletas digestive con avena y trigo Galleteca de Dia caja 425 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "425 g",
+    "peso_total": "425 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/294640",
+    "titulo": "Galleta con chips de chocolate con leche",
+    "marca": "El Molino",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Galleta con chips de chocolate con leche El molino de Dia 76 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 0.89,
+    "unidades": 1,
+    "peso_por_unidad": "76 g",
+    "peso_total": "76 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/galletas/p/480",
+    "titulo": "Galletas tostadas Galleteca de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,7 g",
+      "Saturadas": "0,9 g",
+      "Hidratos de carbono": "76 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "4,6 g",
+      "Proteinas": "7,6 g",
+      "Sal": "0,63 g",
+      "Valor energetico": "431 kcal",
+      "Valor energetico en KJ": "1817 kJ"
+    },
+    "descripcion": "Galletas tostadas Galleteca de Dia paquete 800 g",
+    "categorias": [
+      "galletas"
+    ],
+    "precio_total": 1.39,
+    "unidades": 1,
+    "peso_por_unidad": "800 g",
+    "peso_total": "800 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/262430",
+    "titulo": "Atún en aceite de girasol Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "34 g",
+      "Saturadas": "3,9 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18 g",
+      "Sal": "0,85 g",
+      "Valor energetico": "378 kcal",
+      "Valor energetico en KJ": "1566 kJ"
+    },
+    "descripcion": "Atún en aceite de girasol Dia Mari Marinera 6 x 52 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 3.73,
+    "unidades": 6,
+    "peso_por_unidad": "52 g",
+    "peso_total": "312 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/262439",
+    "titulo": "Atún claro al natural Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,9 g",
+      "Saturadas": "0,3 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "23 g",
+      "Sal": "1,2 g",
+      "Valor energetico": "100 kcal",
+      "Valor energetico en KJ": "424 kJ"
+    },
+    "descripcion": "Atún claro al natural Dia Mari Marinera 6 x 60 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 4.2,
+    "unidades": 6,
+    "peso_por_unidad": "60 g",
+    "peso_total": "360 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/262432",
+    "titulo": "Atún claro en aceite de oliva Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "3,9 g",
+      "Hidratos de carbono": "0,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18 g",
+      "Sal": "0,9 g",
+      "Valor energetico": "306 kcal",
+      "Valor energetico en KJ": "1267 kJ"
+    },
+    "descripcion": "Atún claro en aceite de oliva Dia Mari Marinera 6 x 60 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 4.9,
+    "unidades": 6,
+    "peso_por_unidad": "60 g",
+    "peso_total": "360 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/138259",
+    "titulo": "Atún en aceite de girasol Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "33,8 g",
+      "Saturadas": "3,5 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "14,8 g",
+      "Sal": "0,8 g",
+      "Valor energetico": "363 kcal",
+      "Valor energetico en KJ": "1502 kJ"
+    },
+    "descripcion": "Atún en aceite de girasol Dia Mari Marinera 650 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 6.5,
+    "unidades": 1,
+    "peso_por_unidad": "650 g",
+    "peso_total": "650 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caballa-y-sardinas/p/182509",
+    "titulo": "Sardinillas en aceite de oliva Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22 g",
+      "Saturadas": "4,8 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "17 g",
+      "Sal": "0,95 g",
+      "Valor energetico": "267 kcal",
+      "Valor energetico en KJ": "1106 kJ"
+    },
+    "descripcion": "Sardinillas en aceite de oliva Dia Mari Marinera 2 x 65 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.05,
+    "unidades": 2,
+    "peso_por_unidad": "65 g",
+    "peso_total": "130 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caballa-y-sardinas/p/284386",
+    "titulo": "Filetes de caballa del sur en aceite de oliva Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24,9 g",
+      "Saturadas": "4,2 g",
+      "Hidratos de carbono": "0,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18,6 g",
+      "Sal": "0,85 g",
+      "Valor energetico": "301 kcal",
+      "Valor energetico en KJ": "1249 kJ"
+    },
+    "descripcion": "Filetes de caballa del sur en aceite de oliva Dia Mari Marinera 85 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.65,
+    "unidades": 1,
+    "peso_por_unidad": "85 g",
+    "peso_total": "85 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caballa-y-sardinas/p/7975",
+    "titulo": "Sardinas en aceite de oliva Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 g",
+      "Saturadas": "4,5 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "20 g",
+      "Sal": "0,57 g",
+      "Valor energetico": "308 kcal",
+      "Valor energetico en KJ": "1278 kJ"
+    },
+    "descripcion": "Sardinas en aceite de oliva Dia Mari Marinera 85 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.25,
+    "unidades": 1,
+    "peso_por_unidad": "85 g",
+    "peso_total": "85 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caballa-y-sardinas/p/5832",
+    "titulo": "Sardinillas en tomate Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,7 g",
+      "Saturadas": "2,5 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "18 g",
+      "Sal": "1 g",
+      "Valor energetico": "155 kcal",
+      "Valor energetico en KJ": "648 kJ"
+    },
+    "descripcion": "Sardinillas en tomate Dia Mari Marinera 62 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.09,
+    "unidades": 1,
+    "peso_por_unidad": "62 g",
+    "peso_total": "62 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/mejillones-berberechos-y-pescado/p/50597",
+    "titulo": "Mejillones en escabeche Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17 g",
+      "Saturadas": "1,9 g",
+      "Hidratos de carbono": "5,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "12 g",
+      "Sal": "1,2 g",
+      "Valor energetico": "222 kcal",
+      "Valor energetico en KJ": "921 kJ"
+    },
+    "descripcion": "Mejillones en escabeche Dia Mari Marinera 3 x 43 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.39,
+    "unidades": 3,
+    "peso_por_unidad": "43 g",
+    "peso_total": "129 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/mejillones-berberechos-y-pescado/p/117162",
+    "titulo": "Mejillones en escabeche picantes 14/18 piezas Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17 g",
+      "Saturadas": "1,9 g",
+      "Hidratos de carbono": "5,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "12 g",
+      "Sal": "1,2 g",
+      "Valor energetico": "222 kcal",
+      "Valor energetico en KJ": "921 kJ"
+    },
+    "descripcion": "Mejillones en escabeche picantes 14/18 piezas Dia Mari Marinera 69 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.99,
+    "unidades": 1,
+    "peso_por_unidad": "69 g",
+    "peso_total": "69 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/mejillones-berberechos-y-pescado/p/51264",
+    "titulo": "Trozos de potón en salsa americana Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12,3 g",
+      "Saturadas": "1,3 g",
+      "Hidratos de carbono": "2,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "10,5 g",
+      "Sal": "0,57 g",
+      "Valor energetico": "163 kcal",
+      "Valor energetico en KJ": "678 kJ"
+    },
+    "descripcion": "Trozos de potón en salsa americana Dia Mari Marinera 3 x 51 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.45,
+    "unidades": 3,
+    "peso_por_unidad": "51 g",
+    "peso_total": "153 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/mejillones-berberechos-y-pescado/p/62631",
+    "titulo": "Potón del Pacífico en su tinta Dia",
+    "marca": "Mari Marinera",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15,6 g",
+      "Saturadas": "1,7 g",
+      "Hidratos de carbono": "3,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9 g",
+      "Sal": "0,57 g",
+      "Valor energetico": "192 kcal",
+      "Valor energetico en KJ": "795 kJ"
+    },
+    "descripcion": "Potón del Pacífico en su tinta Dia Mari Marinera 3 x 51 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.69,
+    "unidades": 3,
+    "peso_por_unidad": "51 g",
+    "peso_total": "153 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-verdura/p/46598",
+    "titulo": "Pimientos del piquillo en tiras con ajo Dia",
+    "marca": "Vegecampo",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "9,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,9 g",
+      "Sal": "1,1 g",
+      "Valor energetico": "40 kcal",
+      "Valor energetico en KJ": "170 kJ"
+    },
+    "descripcion": "Pimientos del piquillo en tiras con ajo Dia Vegecampo 225 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "225 g",
+    "peso_total": "225 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-verdura/p/1666",
+    "titulo": "Champiñones laminados Dia",
+    "marca": "Vegecampo",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2,3 g",
+      "Proteinas": "2,4 g",
+      "Sal": "0,6 g",
+      "Valor energetico": "22 kcal",
+      "Valor energetico en KJ": "91 kJ"
+    },
+    "descripcion": "Champiñones laminados Dia Vegecampo 185 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "185 g",
+    "peso_total": "185 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-verdura/p/47592",
+    "titulo": "Maíz dulce Dia",
+    "marca": "Vegecampo",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,2 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "12,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,4 g",
+      "Sal": "0,4 g",
+      "Valor energetico": "77 kcal",
+      "Valor energetico en KJ": "323 kJ"
+    },
+    "descripcion": "Maíz dulce Dia Vegecampo 3 x 140 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.6,
+    "unidades": 3,
+    "peso_por_unidad": "140 g",
+    "peso_total": "420 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-verdura/p/308694",
+    "titulo": "Cebolla caramelizada Dia",
+    "marca": "Vegecampo",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4 g",
+      "Saturadas": "0,6 g",
+      "Hidratos de carbono": "16 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,9 g",
+      "Sal": "0,61 g",
+      "Valor energetico": "105 kcal",
+      "Valor energetico en KJ": "440 kJ"
+    },
+    "descripcion": "Cebolla caramelizada Dia Vegecampo 210 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.88,
+    "unidades": 1,
+    "peso_por_unidad": "210 g",
+    "peso_total": "210 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-fruta/p/1807",
+    "titulo": "Piña en su jugo en rodajas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "15 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,4 g",
+      "Sal": "0,02 g",
+      "Valor energetico": "66 kcal",
+      "Valor energetico en KJ": "279 kJ"
+    },
+    "descripcion": "Piña en su jugo en rodajas Dia Fruticampo 3 x 137 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.48,
+    "unidades": 3,
+    "peso_por_unidad": "137 g",
+    "peso_total": "411 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-fruta/p/4916",
+    "titulo": "Piña en su jugo en rodajas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "15 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,4 g",
+      "Sal": "0,02 g",
+      "Valor energetico": "66 kcal",
+      "Valor energetico en KJ": "279 kJ"
+    },
+    "descripcion": "Piña en su jugo en rodajas Dia Fruticampo 490 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.1,
+    "unidades": 1,
+    "peso_por_unidad": "490 g",
+    "peso_total": "490 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-fruta/p/270",
+    "titulo": "Melocotón en almíbar",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "14,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "58 kcal",
+      "Valor energetico en KJ": "247 kJ"
+    },
+    "descripcion": "Melocotón en almíbar Dia Fruticampo 480 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.05,
+    "unidades": 1,
+    "peso_por_unidad": "480 g",
+    "peso_total": "480 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-fruta/p/75604",
+    "titulo": "Melocotón en almíbar",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "14,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "58 kcal",
+      "Valor energetico en KJ": "274 kJ"
+    },
+    "descripcion": "Melocotón en almíbar Dia Fruticampo 3 x 115 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.45,
+    "unidades": 3,
+    "peso_por_unidad": "115 g",
+    "peso_total": "345 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/cremas-y-pures/p/33365",
+    "titulo": "Puré de patatas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,8 g",
+      "Saturadas": "0,6 g",
+      "Hidratos de carbono": "13,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,06 g",
+      "Valor energetico": "75 kcal",
+      "Valor energetico en KJ": "316 kJ"
+    },
+    "descripcion": "Puré de patatas Dia Patatas Unidas 500 g",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 2.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/cremas-y-pures/p/27907",
+    "titulo": "Crema de calabaza",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,1 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "5,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,7 g",
+      "Valor energetico": "36 kcal",
+      "Valor energetico en KJ": "151 kJ"
+    },
+    "descripcion": "Crema de calabaza Dia Al Punto 500 ml",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/cremas-y-pures/p/27874",
+    "titulo": "Crema de calabacín",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,7 g",
+      "Valor energetico": "37 kcal",
+      "Valor energetico en KJ": "157 kJ"
+    },
+    "descripcion": "Crema de calabacín Dia Al Punto 500 ml",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/cremas-y-pures/p/27906",
+    "titulo": "Crema de verduras",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,3 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "5,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,7 g",
+      "Valor energetico": "39 kcal",
+      "Valor energetico en KJ": "164 kJ"
+    },
+    "descripcion": "Crema de verduras Dia Al Punto 500 ml",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caldos-y-sopas/p/54127",
+    "titulo": "Caldo de pollo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,3 g",
+      "Saturadas": "0,1 g",
+      "Hidratos de carbono": "0,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,4 g",
+      "Sal": "0,83 g",
+      "Valor energetico": "2 kcal",
+      "Valor energetico en KJ": "7 kJ"
+    },
+    "descripcion": "Caldo de pollo Dia Al Punto 1 L",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 0.8,
+    "unidades": 1,
+    "peso_por_unidad": "1 l",
+    "peso_total": "1 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caldos-y-sopas/p/78583",
+    "titulo": "Caldo de cocido",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,3 g",
+      "Saturadas": "0,1 g",
+      "Hidratos de carbono": "0,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,87 g",
+      "Valor energetico": "7 kcal",
+      "Valor energetico en KJ": "28 kJ"
+    },
+    "descripcion": "Caldo de cocido Dia Al Punto 1 L",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 0.9,
+    "unidades": 1,
+    "peso_por_unidad": "1 l",
+    "peso_total": "1 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caldos-y-sopas/p/295317",
+    "titulo": "Pastillas de caldo de pollo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,7 g",
+      "Saturadas": "5,1 g",
+      "Hidratos de carbono": "20 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "12 g",
+      "Sal": "0 g",
+      "Valor energetico": "199 kcal",
+      "Valor energetico en KJ": "834 kJ"
+    },
+    "descripcion": "Pastillas de caldo de pollo Dia Al Punto 24 unidades",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 1.45,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/caldos-y-sopas/p/295273",
+    "titulo": "Pastillas de caldo de verduras",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5,1 g",
+      "Saturadas": "3,9 g",
+      "Hidratos de carbono": "20,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "13,2 g",
+      "Sal": "0 g",
+      "Valor energetico": "185 kcal",
+      "Valor energetico en KJ": "780 kJ"
+    },
+    "descripcion": "Pastillas de caldo de verduras Dia Al Punto 12 unidades",
+    "categorias": [
+      "conservas_y_caldos"
+    ],
+    "precio_total": 0.9,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/308802",
+    "titulo": "Lacón cortado a mano",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,1 g",
+      "Saturadas": "1,2 g",
+      "Hidratos de carbono": "1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "19,5 g",
+      "Sal": "160 g",
+      "Valor energetico": "110 kcal",
+      "Valor energetico en KJ": "463 kJ"
+    },
+    "descripcion": "Lacón cortado a mano Dia Nuestra Alacena 170 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "170 g",
+    "peso_total": "170 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309599",
+    "titulo": "Tarrrina helado lemon cake",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15,1 g",
+      "Saturadas": "10,6 g",
+      "Hidratos de carbono": "29 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,2 g",
+      "Valor energetico": "266 kcal",
+      "Valor energetico en KJ": "1110 kJ"
+    },
+    "descripcion": "Tarrrina helado lemon cake Dia Temptation 350 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/gel-de-ducha-y-esponjas/p/310225",
+    "titulo": "Gel de ducha melocotón",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Gel de ducha melocotón Dia Imaqe 400 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.45,
+    "unidades": 1,
+    "peso_por_unidad": "400 ml",
+    "peso_total": "400 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/gel-de-ducha-y-esponjas/p/310226",
+    "titulo": "Gel de ducha lima y menta",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Gel de ducha lima y menta Dia Imaqe 400 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.45,
+    "unidades": 1,
+    "peso_por_unidad": "400 ml",
+    "peso_total": "400 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/cristales-y-suelos/p/305605",
+    "titulo": "Friegasuelos concentrado citronela Super Paco de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Friegasuelos concentrado citronela Super Paco de Dia 1 L",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.79,
+    "unidades": 1,
+    "peso_por_unidad": "1 l",
+    "peso_total": "1 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/ambientadores/p/310325",
+    "titulo": "Ambientador perlas citronela",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Ambientador perlas citronela Dia Super Paco 110 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.45,
+    "unidades": 1,
+    "peso_por_unidad": "110 g",
+    "peso_total": "110 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/cuidado-de-la-ropa/p/308902",
+    "titulo": "Detergente máquina polvo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Detergente máquina polvo Dia Super Paco 25 lavados",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 3.59,
+    "unidades": 1,
+    "peso_por_unidad": "25 l",
+    "peso_total": "25 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/cuidado-de-la-ropa/p/308903",
+    "titulo": "Detergente máquina polvo marsella",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Detergente máquina polvo marsella Dia Super Paco 25 lavados",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 3.35,
+    "unidades": 1,
+    "peso_por_unidad": "25 l",
+    "peso_total": "25 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/utensilios-de-limpieza/p/288578",
+    "titulo": "Estropajo limpieza delicada Super Paco de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Estropajo limpieza delicada Super Paco de Dia 3 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.2,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/utensilios-de-limpieza/p/288585",
+    "titulo": "Estropajo suciedad resistente Super Paco de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Estropajo suciedad resistente Super Paco de Dia 3 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 0.9,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/utensilios-de-limpieza/p/288582",
+    "titulo": "Estropajo salvauñas suciedad resistente Super Paco de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Estropajo salvauñas suciedad resistente Super Paco de Dia estuche 3 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 0.75,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/limpieza-y-hogar/utensilios-de-limpieza/p/288586",
+    "titulo": "Estropajo salvauñas limpieza delicada Super Paco de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Estropajo salvauñas limpieza delicada Super Paco de Dia estuche 3 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 0.95,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/13627",
+    "titulo": "Naranjas para zumo bolsa",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Naranjas para zumo bolsa 4 Kg",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 3.79,
+    "unidades": 1,
+    "peso_por_unidad": "4 kg",
+    "peso_total": "4 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/patatas-y-zanahorias/p/296356",
+    "titulo": "Patatas",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Patatas 4 Kg",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 3.79,
+    "unidades": 1,
+    "peso_por_unidad": "4 kg",
+    "peso_total": "4 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/calabacin-calabaza-y-berenjena/p/93",
+    "titulo": "Calabacín unidad",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Calabacín unidad 380 g aprox.",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 0.57,
+    "unidades": 1,
+    "peso_por_unidad": "380 g",
+    "peso_total": "380 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/setas-y-champinones/p/271527",
+    "titulo": "Champiñón entero bandeja",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Champiñón entero bandeja 250 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/manzanas-y-peras/p/159310",
+    "titulo": "Pera conferencia bandeja",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Pera conferencia bandeja 700 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.29,
+    "unidades": 1,
+    "peso_por_unidad": "700 g",
+    "peso_total": "700 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/frutas-tropicales/p/166057",
+    "titulo": "Mango bandeja 2 unidades",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Mango bandeja 2 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.49,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/12254",
+    "titulo": "Fresón bandeja",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Fresón bandeja 500 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 2.49,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/206952",
+    "titulo": "Mandarina selección malla",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Mandarina selección malla 750 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.99,
+    "unidades": 1,
+    "peso_por_unidad": "750 g",
+    "peso_total": "750 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/151",
+    "titulo": "Arroz extra",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,7 g",
+      "Saturadas": "0,1 g",
+      "Hidratos de carbono": "78 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,8 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "348 kcal",
+      "Valor energetico en KJ": "1476 kJ"
+    },
+    "descripcion": "Arroz extra Dia Arrozona 1 Kg",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "1 kg",
+    "peso_total": "1 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-en-lonchas-y-rallado/p/302962",
+    "titulo": "Queso sándwich",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17 g",
+      "Saturadas": "11,5 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "28 g",
+      "Sal": "160 g",
+      "Valor energetico": "265 kcal",
+      "Valor energetico en KJ": "1105 kJ"
+    },
+    "descripcion": "Queso sándwich Dia Láctea 160 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "160 g",
+    "peso_total": "160 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/conservas-de-verdura/p/13049",
+    "titulo": "Judías verdes planas Dia",
+    "marca": "Vegecampo",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0,5 g",
+      "Saturadas": "0,1 g",
+      "Hidratos de carbono": "2,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,7 g",
+      "Sal": "0,7 g",
+      "Valor energetico": "16 kcal",
+      "Valor energetico en KJ": "68 kJ"
+    },
+    "descripcion": "Judías verdes planas Dia Vegecampo 360 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "360 g",
+    "peso_total": "360 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/27933",
+    "titulo": "Lentejas con chorizo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,2 g",
+      "Saturadas": "1,1 g",
+      "Hidratos de carbono": "8,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,1 g",
+      "Sal": "0,95 g",
+      "Valor energetico": "90 kcal",
+      "Valor energetico en KJ": "376 kJ"
+    },
+    "descripcion": "Lentejas con chorizo Dia Al Punto 430 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "430 g",
+    "peso_total": "430 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/masas-y-hojaldres/p/127848",
+    "titulo": "Masa de hojaldre",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23,4 g",
+      "Saturadas": "10,7 g",
+      "Hidratos de carbono": "36,5 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,9 g",
+      "Sal": "0,96 g",
+      "Valor energetico": "396 kcal",
+      "Valor energetico en KJ": "1653 kJ"
+    },
+    "descripcion": "Masa de hojaldre Dia Al Punto bolsa 230 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "230 g",
+    "peso_total": "230 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/285410",
+    "titulo": "Tortillas de trigo integral",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6,8 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "41 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9,4 g",
+      "Sal": "0,95 g",
+      "Valor energetico": "283 kcal",
+      "Valor energetico en KJ": "1190 kJ"
+    },
+    "descripcion": "Tortillas de trigo integral Dia Al Punto 320 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "320 g",
+    "peso_total": "320 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/postres-tradicionales/p/46923",
+    "titulo": "Mousse de chocolate con leche",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6 g",
+      "Saturadas": "3,6 g",
+      "Hidratos de carbono": "21,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,8 g",
+      "Sal": "0,15 g",
+      "Valor energetico": "159 kcal",
+      "Valor energetico en KJ": "668 kJ"
+    },
+    "descripcion": "Mousse de chocolate con leche Dia Caprichoso pack 4 x 60 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "60 g",
+    "peso_total": "240 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/cremas-y-pures/p/27907",
+    "titulo": "Crema de calabaza",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,1 g",
+      "Saturadas": "0,2 g",
+      "Hidratos de carbono": "5,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,7 g",
+      "Valor energetico": "36 kcal",
+      "Valor energetico en KJ": "151 kJ"
+    },
+    "descripcion": "Crema de calabaza Dia Al Punto 500 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/115669",
+    "titulo": "Queso fresco de Burgos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "8 g",
+      "Hidratos de carbono": "3,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11 g",
+      "Sal": "160 g",
+      "Valor energetico": "166 kcal",
+      "Valor energetico en KJ": "692 kJ"
+    },
+    "descripcion": "Queso fresco de Burgos Dia Láctea 4 x 62.5 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "5 g",
+    "peso_total": "5 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/picos-y-crackers/p/271976",
+    "titulo": "Cóctel de picos",
+    "marca": "El Molino",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5,3 g",
+      "Saturadas": "0,8 g",
+      "Hidratos de carbono": "71,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11,5 g",
+      "Sal": "0,01 g",
+      "Valor energetico": "392 kcal",
+      "Valor energetico en KJ": "1459 kJ"
+    },
+    "descripcion": "Cóctel de picos El molino de Dia 250 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/yogures-y-postres/yogures-bifidus-y-colesterol/p/42065",
+    "titulo": "Bífidus con fresa doble 0%",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "6,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,17 g",
+      "Valor energetico": "45 kcal",
+      "Valor energetico en KJ": "192 kJ"
+    },
+    "descripcion": "Bífidus con fresa doble 0% Dia pack 4 x 125 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 4,
+    "peso_por_unidad": "125 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/galletas-bollos-y-cereales/bolleria/p/54726",
+    "titulo": "Sobaos",
+    "marca": "El Molino",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22,1 g",
+      "Saturadas": "7,9 g",
+      "Hidratos de carbono": "53 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0,71 g",
+      "Valor energetico": "432 kcal",
+      "Valor energetico en KJ": "1807 kJ"
+    },
+    "descripcion": "Sobaos El molino de Dia bolsa 350 g",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/gel-de-ducha-y-esponjas/p/273855",
+    "titulo": "Gel de ducha hidratante de almendras y miel",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Gel de ducha hidratante de almendras y miel Dia Imaqe botella 750 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "750 ml",
+    "peso_total": "750 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/cuidado-bucal/p/284058",
+    "titulo": "Enjuague bucal protección dientes y encías",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Enjuague bucal protección dientes y encías  Dia Imaqe botella 500 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/bebe/panales-y-toallitas/p/296946",
+    "titulo": "Toallitas para bebés cremosas Planeta Bebé de",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Toallitas para bebés cremosas Planeta Bebé de Dia bolsa 48 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/jabon-de-manos/p/273835",
+    "titulo": "Jabón de manos de almendra y miel",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Jabón de manos de almendra y miel Dia Imaqe bote 500 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/gel-de-ducha-y-esponjas/p/273857",
+    "titulo": "Gel de ducha con glicerina clásico",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Gel de ducha con glicerina clásico Dia Imaqe botella 750 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "750 ml",
+    "peso_total": "750 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/limpieza-facial-crema-facial/p/272019",
+    "titulo": "Toallitas desmaquillantes para pieles sensibles con extractos de rosas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Toallitas desmaquillantes para pieles sensibles con extractos de rosas Dia Imaqe bolsa 30 unidades",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "Desconocido",
+    "peso_total": "Desconocido",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/cuidado-bucal/p/294282",
+    "titulo": "Pasta de dientes herbal",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Pasta de dientes herbal Dia Imaqe tubo 75 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "75 ml",
+    "peso_total": "75 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/perfumeria-higiene-salud/cuidado-bucal/p/284059",
+    "titulo": "Enjuague bucal acción total",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 g",
+      "Saturadas": "0 g",
+      "Hidratos de carbono": "0 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "0 g",
+      "Valor energetico": "0 kcal",
+      "Valor energetico en KJ": "0 kJ"
+    },
+    "descripcion": "Enjuague bucal acción total Dia Imaqe botella 500 ml",
+    "categorias": [
+      "pastas_y_arroces"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "500 ml",
+    "peso_total": "500 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308575",
+    "titulo": "Arroz con secreto ibérico y setas",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,7 g",
+      "Saturadas": "1,9 g",
+      "Hidratos de carbono": "28 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,3 g",
+      "Sal": "1,2 g",
+      "Valor energetico": "223 kcal",
+      "Valor energetico en KJ": "935 kJ"
+    },
+    "descripcion": "Arroz con secreto ibérico y setas 350 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.49,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308577",
+    "titulo": "Libritos de jamón y queso con patatas fritas",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "2,2 g",
+      "Hidratos de carbono": "21 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,4 g",
+      "Sal": "0,6 g",
+      "Valor energetico": "226 kcal",
+      "Valor energetico en KJ": "945 kJ"
+    },
+    "descripcion": "Libritos de jamón y queso con patatas fritas 250 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.49,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308573",
+    "titulo": "Espaguetis carbonara",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,5 g",
+      "Saturadas": "4,2 g",
+      "Hidratos de carbono": "20 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,1 g",
+      "Sal": "0 g",
+      "Valor energetico": "173 kcal",
+      "Valor energetico en KJ": "723 kJ"
+    },
+    "descripcion": "Espaguetis carbonara 350 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/310997",
+    "titulo": "Ensaladilla rusa",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 g",
+      "Saturadas": "2 g",
+      "Hidratos de carbono": "3,6 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "4,7 g",
+      "Sal": "0,65 g",
+      "Valor energetico": "187 kcal",
+      "Valor energetico en KJ": "771 kJ"
+    },
+    "descripcion": "Ensaladilla rusa 350 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/listos-para-comer/p/308777",
+    "titulo": "Tortilla de patata ESTILO TRADICIONAL con cebolla 1.",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,3 g",
+      "Saturadas": "1,4 g",
+      "Hidratos de carbono": "11 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "1,9 g",
+      "Proteinas": "4,1 g",
+      "Sal": "1 g",
+      "Valor energetico": "139 kcal",
+      "Valor energetico en KJ": "579 kJ"
+    },
+    "descripcion": "Tortilla de patata ESTILO TRADICIONAL con cebolla 1.3 Kg",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 6.99,
+    "unidades": 1,
+    "peso_por_unidad": "3 kg",
+    "peso_total": "3 kg",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/262522",
+    "titulo": "Tortilla de patatas con cebolla",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9 g",
+      "Saturadas": "1,6 g",
+      "Hidratos de carbono": "11 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "5,2 g",
+      "Sal": "1,2 g",
+      "Valor energetico": "147 kcal",
+      "Valor energetico en KJ": "614 kJ"
+    },
+    "descripcion": "Tortilla de patatas con cebolla Dia Al Punto 600 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.79,
+    "unidades": 1,
+    "peso_por_unidad": "600 g",
+    "peso_total": "600 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/307540",
+    "titulo": "Empanada de atún",
+    "marca": "El Molino",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 g",
+      "Saturadas": "2,8 g",
+      "Hidratos de carbono": "28 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "1,5 g",
+      "Proteinas": "9 g",
+      "Sal": "1,3 g",
+      "Valor energetico": "277 kcal",
+      "Valor energetico en KJ": "1159 kJ"
+    },
+    "descripcion": "Empanada de atún El molino de Dia 500 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.6,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/307539",
+    "titulo": "Empanada de pollo cremoso",
+    "marca": "El Molino",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "2,9 g",
+      "Hidratos de carbono": "28 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "1,4 g",
+      "Proteinas": "7,8 g",
+      "Sal": "1,3 g",
+      "Valor energetico": "256 kcal",
+      "Valor energetico en KJ": "1070 kJ"
+    },
+    "descripcion": "Empanada de pollo cremoso El molino de Dia 500 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.65,
+    "unidades": 1,
+    "peso_por_unidad": "500 g",
+    "peso_total": "500 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/pizzas-refrigeradas/p/30479",
+    "titulo": "Pizza jamón y queso",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,5 g",
+      "Saturadas": "3,7 g",
+      "Hidratos de carbono": "26 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "12 g",
+      "Sal": "1,8 g",
+      "Valor energetico": "223 kcal",
+      "Valor energetico en KJ": "938 kJ"
+    },
+    "descripcion": "Pizza jamón y queso Dia Al Punto 400 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.41,
+    "unidades": 1,
+    "peso_por_unidad": "400 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/pizzas-refrigeradas/p/56444",
+    "titulo": "Pizza 4 quesos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "6,5 g",
+      "Hidratos de carbono": "31 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "13 g",
+      "Sal": "1,4 g",
+      "Valor energetico": "281 kcal",
+      "Valor energetico en KJ": "1181 kJ"
+    },
+    "descripcion": "Pizza 4 quesos Dia Al Punto 390 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.76,
+    "unidades": 1,
+    "peso_por_unidad": "390 g",
+    "peso_total": "390 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/pizzas-refrigeradas/p/263619",
+    "titulo": "Pizza barbacoa",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,1 g",
+      "Saturadas": "3,7 g",
+      "Hidratos de carbono": "31 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "10 g",
+      "Sal": "1,7 g",
+      "Valor energetico": "242 kcal",
+      "Valor energetico en KJ": "1017 kJ"
+    },
+    "descripcion": "Pizza barbacoa Dia Al Punto 425 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "425 g",
+    "peso_total": "425 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/pizzas-refrigeradas/p/119533",
+    "titulo": "Pizza carbonara",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,4 g",
+      "Saturadas": "4,8 g",
+      "Hidratos de carbono": "28,2 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0 g",
+      "Sal": "1,4 g",
+      "Valor energetico": "244 kcal",
+      "Valor energetico en KJ": "1024 kJ"
+    },
+    "descripcion": "Pizza carbonara Dia Al Punto 400 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.7,
+    "unidades": 1,
+    "peso_por_unidad": "400 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/pizzas-y-masas/p/53870",
+    "titulo": "Pizza cuatro quesos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10,7 g",
+      "Saturadas": "5,3 g",
+      "Hidratos de carbono": "27 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11,5 g",
+      "Sal": "1,3 g",
+      "Valor energetico": "254 kcal",
+      "Valor energetico en KJ": "1064 kJ"
+    },
+    "descripcion": "Pizza cuatro quesos Dia Al Punto 400 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.49,
+    "unidades": 1,
+    "peso_por_unidad": "400 g",
+    "peso_total": "400 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/pizzas-y-masas/p/16536",
+    "titulo": "Baguette de jamón y queso 2 unidades",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6,2 g",
+      "Saturadas": "3,5 g",
+      "Hidratos de carbono": "28 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "11 g",
+      "Sal": "1,3 g",
+      "Valor energetico": "217 kcal",
+      "Valor energetico en KJ": "914 kJ"
+    },
+    "descripcion": "Baguette de jamón y queso 2 unidades Dia Al Punto 250 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.89,
+    "unidades": 1,
+    "peso_por_unidad": "250 g",
+    "peso_total": "250 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/pizzas-y-masas/p/250252",
+    "titulo": "Pizza barbacoa",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,3 g",
+      "Saturadas": "3,6 g",
+      "Hidratos de carbono": "28 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9,9 g",
+      "Sal": "1,6 g",
+      "Valor energetico": "231 kcal",
+      "Valor energetico en KJ": "969 kJ"
+    },
+    "descripcion": "Pizza barbacoa Dia Al Punto 350 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.49,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/pizzas-y-masas/p/308609",
+    "titulo": "Pizza Stranger Things royale California",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "11 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "14 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "3 g",
+      "Proteinas": "15 g",
+      "Sal": "1 g",
+      "Valor energetico": "215 kcal",
+      "Valor energetico en KJ": "899 kJ"
+    },
+    "descripcion": "Pizza Stranger Things royale California 446 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 4.49,
+    "unidades": 1,
+    "peso_por_unidad": "446 g",
+    "peso_total": "446 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/sandwiches-y-hamburguesas/p/74730",
+    "titulo": "Sándwich mixto Casa",
+    "marca": "Tarradellas",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,2 g",
+      "Saturadas": "4,3 g",
+      "Hidratos de carbono": "29,4 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "14,2 g",
+      "Sal": "1,5 g",
+      "Valor energetico": "248 kcal",
+      "Valor energetico en KJ": "1045 kJ"
+    },
+    "descripcion": "Sándwich mixto Casa Tarradellas 240 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.99,
+    "unidades": 1,
+    "peso_por_unidad": "240 g",
+    "peso_total": "240 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/sandwiches-y-hamburguesas/p/296199",
+    "titulo": "Flautas de pollo y 2 quesos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7 g",
+      "Saturadas": "3,6 g",
+      "Hidratos de carbono": "30 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "15,1 g",
+      "Sal": "2,31 g",
+      "Valor energetico": "243 kcal",
+      "Valor energetico en KJ": "1024 kJ"
+    },
+    "descripcion": "Flautas de pollo y 2 quesos Dia Al Punto 275 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.16,
+    "unidades": 1,
+    "peso_por_unidad": "275 g",
+    "peso_total": "275 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/sandwiches-y-hamburguesas/p/296200",
+    "titulo": "Flautas de bacon y 2 quesos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "5,1 g",
+      "Hidratos de carbono": "29,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,7 g",
+      "Sal": "2,04 g",
+      "Valor energetico": "262 kcal",
+      "Valor energetico en KJ": "1099 kJ"
+    },
+    "descripcion": "Flautas de bacon y 2 quesos Dia Al Punto 275 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.16,
+    "unidades": 1,
+    "peso_por_unidad": "275 g",
+    "peso_total": "275 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/sandwiches-y-hamburguesas/p/296201",
+    "titulo": "Flautas de carne barbacoa con bacon",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,5 g",
+      "Saturadas": "3,4 g",
+      "Hidratos de carbono": "31,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "10,1 g",
+      "Sal": "1,84 g",
+      "Valor energetico": "253 kcal",
+      "Valor energetico en KJ": "1065 kJ"
+    },
+    "descripcion": "Flautas de carne barbacoa con bacon Dia Al Punto 275 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.16,
+    "unidades": 1,
+    "peso_por_unidad": "275 g",
+    "peso_total": "275 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/47840",
+    "titulo": "Fabada",
+    "marca": "Asturiana",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8,5 g",
+      "Saturadas": "2,6 g",
+      "Hidratos de carbono": "11 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6 g",
+      "Sal": "0,9 g",
+      "Valor energetico": "150 kcal",
+      "Valor energetico en KJ": "625 kJ"
+    },
+    "descripcion": "Fabada asturiana Dia Al Punto 435 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "435 g",
+    "peso_total": "435 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/6630",
+    "titulo": "Albóndigas",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9,5 g",
+      "Saturadas": "2,8 g",
+      "Hidratos de carbono": "5,1 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,4 g",
+      "Sal": "1,1 g",
+      "Valor energetico": "142 kcal",
+      "Valor energetico en KJ": "592 kJ"
+    },
+    "descripcion": "Albóndigas Dia Al Punto 415 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.78,
+    "unidades": 1,
+    "peso_por_unidad": "415 g",
+    "peso_total": "415 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/266359",
+    "titulo": "Lasaña boloñesa",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,7 g",
+      "Saturadas": "2,3 g",
+      "Hidratos de carbono": "14 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "6,1 g",
+      "Sal": "0,84 g",
+      "Valor energetico": "152 kcal",
+      "Valor energetico en KJ": "635 kJ"
+    },
+    "descripcion": "Lasaña boloñesa Dia Al Punto 350 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.49,
+    "unidades": 1,
+    "peso_por_unidad": "350 g",
+    "peso_total": "350 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/conservas-caldos-y-cremas/cremas-y-pures/p/309573",
+    "titulo": "Crema de espárragos",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 g",
+      "Saturadas": "0,4 g",
+      "Hidratos de carbono": "3,7 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "1 g",
+      "Sal": "0,02 g",
+      "Valor energetico": "25 kcal",
+      "Valor energetico en KJ": "105 kJ"
+    },
+    "descripcion": "Crema de espárragos Dia Al Punto 300 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.5,
+    "unidades": 1,
+    "peso_por_unidad": "300 g",
+    "peso_total": "300 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/13356",
+    "titulo": "Tortillas de trigo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,4 g",
+      "Saturadas": "1,3 g",
+      "Hidratos de carbono": "53 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8 g",
+      "Sal": "1,1 g",
+      "Valor energetico": "316 kcal",
+      "Valor energetico en KJ": "1332 kJ"
+    },
+    "descripcion": "Tortillas de trigo Dia Al Punto 320 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.02,
+    "unidades": 1,
+    "peso_por_unidad": "320 g",
+    "peso_total": "320 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/285410",
+    "titulo": "Tortillas de trigo integral",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6,8 g",
+      "Saturadas": "1,5 g",
+      "Hidratos de carbono": "41 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9,4 g",
+      "Sal": "0,95 g",
+      "Valor energetico": "283 kcal",
+      "Valor energetico en KJ": "1190 kJ"
+    },
+    "descripcion": "Tortillas de trigo integral Dia Al Punto 320 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.0,
+    "unidades": 1,
+    "peso_por_unidad": "320 g",
+    "peso_total": "320 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-mexicana/p/28188",
+    "titulo": "Chili con carne Old El Paso",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,8 g",
+      "Saturadas": "1,2 g",
+      "Hidratos de carbono": "9,3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "3,4 g",
+      "Proteinas": "8,6 g",
+      "Sal": "0,89 g",
+      "Valor energetico": "104 kcal",
+      "Valor energetico en KJ": "435 kJ"
+    },
+    "descripcion": "Chili con carne Old El Paso 418 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.99,
+    "unidades": 1,
+    "peso_por_unidad": "418 g",
+    "peso_total": "418 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-mexicana/p/222880",
+    "titulo": "Relleno para fajitas con pollo, pimientos y cebolla",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,2 g",
+      "Saturadas": "0,4 g",
+      "Hidratos de carbono": "5,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "9,9 g",
+      "Sal": "0,98 g",
+      "Valor energetico": "77 kcal",
+      "Valor energetico en KJ": "326 kJ"
+    },
+    "descripcion": "Relleno para fajitas con pollo, pimientos y cebolla Dia Al Punto 300 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.95,
+    "unidades": 1,
+    "peso_por_unidad": "300 g",
+    "peso_total": "300 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/218533",
+    "titulo": "Noodles orientales sabor pollo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 g",
+      "Saturadas": "2,5 g",
+      "Hidratos de carbono": "60 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,5 g",
+      "Sal": "6,2 g",
+      "Valor energetico": "465 kcal",
+      "Valor energetico en KJ": "1942 kJ"
+    },
+    "descripcion": "Noodles orientales sabor pollo Dia Al Punto 65 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 0.9,
+    "unidades": 1,
+    "peso_por_unidad": "65 g",
+    "peso_total": "65 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/160612",
+    "titulo": "Noodles de pollo",
+    "marca": "Gallina Blanca",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,9 g",
+      "Saturadas": "1,9 g",
+      "Hidratos de carbono": "12 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,1 g",
+      "Sal": "0,83 g",
+      "Valor energetico": "92 kcal",
+      "Valor energetico en KJ": "384 kJ"
+    },
+    "descripcion": "Noodles de pollo Gallina Blanca Yatekomo 60 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.55,
+    "unidades": 1,
+    "peso_por_unidad": "60 g",
+    "peso_total": "60 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-asiatica/p/266806",
+    "titulo": "Gyozas de pollo y verduras al teppanyaki",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3,8 g",
+      "Saturadas": "1,3 g",
+      "Hidratos de carbono": "28,9 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "2,8 g",
+      "Sal": "1 g",
+      "Valor energetico": "161 kcal",
+      "Valor energetico en KJ": "680 kJ"
+    },
+    "descripcion": "Gyozas de pollo y verduras al teppanyaki Dia Al Punto 140 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.99,
+    "unidades": 1,
+    "peso_por_unidad": "140 g",
+    "peso_total": "140 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-asiatica/p/298950",
+    "titulo": "Rollitos de primavera",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1,9 g",
+      "Saturadas": "0,9 g",
+      "Hidratos de carbono": "23 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "3,2 g",
+      "Sal": "1,46 g",
+      "Valor energetico": "127 kcal",
+      "Valor energetico en KJ": "535 kJ"
+    },
+    "descripcion": "Rollitos de primavera Dia Al Punto 280 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.45,
+    "unidades": 1,
+    "peso_por_unidad": "280 g",
+    "peso_total": "280 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/ensaladas-y-verduras-preparadas/p/272834",
+    "titulo": "Ensalada César",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 g",
+      "Saturadas": "3,2 g",
+      "Hidratos de carbono": "8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "7,8 g",
+      "Sal": "1,2 g",
+      "Valor energetico": "171 kcal",
+      "Valor energetico en KJ": "713 kJ"
+    },
+    "descripcion": "Ensalada César Dia Al Punto 210 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.79,
+    "unidades": 1,
+    "peso_por_unidad": "210 g",
+    "peso_total": "210 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/ensaladas-y-verduras-preparadas/p/198528",
+    "titulo": "Ensalada de pasta y rúcula Florette",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7,8 g",
+      "Saturadas": "1,8 g",
+      "Hidratos de carbono": "22 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "1,5 g",
+      "Proteinas": "7,3 g",
+      "Sal": "0 g",
+      "Valor energetico": "192 kcal",
+      "Valor energetico en KJ": "804 kJ"
+    },
+    "descripcion": "Ensalada de pasta y rúcula Florette 325 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.09,
+    "unidades": 1,
+    "peso_por_unidad": "325 g",
+    "peso_total": "325 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/ensaladas-y-verduras-preparadas/p/272835",
+    "titulo": "Ensalada de pasta, atún y huevo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6,9 g",
+      "Saturadas": "1,2 g",
+      "Hidratos de carbono": "14 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "8,2 g",
+      "Sal": "0,67 g",
+      "Valor energetico": "153 kcal",
+      "Valor energetico en KJ": "642 kJ"
+    },
+    "descripcion": "Ensalada de pasta, atún y huevo Dia Al Punto 265 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.79,
+    "unidades": 1,
+    "peso_por_unidad": "265 g",
+    "peso_total": "265 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/verduras/ensaladas-y-verduras-preparadas/p/307740",
+    "titulo": "Ensalada Xtreme pollo crispy Florette",
+    "marca": "Desconocida",
+    "valores_nutricionales_100_g": {
+      "Grasas": "21 g",
+      "Saturadas": "4,8 g",
+      "Hidratos de carbono": "10 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "2,1 g",
+      "Proteinas": "7,8 g",
+      "Sal": "0,9 g",
+      "Valor energetico": "260 kcal",
+      "Valor energetico en KJ": "1079 kJ"
+    },
+    "descripcion": "Ensalada Xtreme pollo crispy Florette 210 g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 3.49,
+    "unidades": 1,
+    "peso_por_unidad": "210 g",
+    "peso_total": "210 g",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/gazpachos-y-salmorejos/p/43231",
+    "titulo": "Gazpacho",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,3 g",
+      "Saturadas": "0,3 g",
+      "Hidratos de carbono": "3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,6 g",
+      "Sal": "0,8 g",
+      "Valor energetico": "37 kcal",
+      "Valor energetico en KJ": "155 kJ"
+    },
+    "descripcion": "Gazpacho Dia Al Punto 1 L",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.69,
+    "unidades": 1,
+    "peso_por_unidad": "1 l",
+    "peso_total": "1 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/gazpachos-y-salmorejos/p/231863",
+    "titulo": "Salmorejo",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5 g",
+      "Saturadas": "0,7 g",
+      "Hidratos de carbono": "4,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,8 g",
+      "Sal": "0 g",
+      "Valor energetico": "69 kcal",
+      "Valor energetico en KJ": "287 kJ"
+    },
+    "descripcion": "Salmorejo Dia Al Punto 1 L",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.19,
+    "unidades": 1,
+    "peso_por_unidad": "1 l",
+    "peso_total": "1 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/gazpachos-y-salmorejos/p/82955",
+    "titulo": "Gazpacho",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,3 g",
+      "Saturadas": "0,3 g",
+      "Hidratos de carbono": "3 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,6 g",
+      "Sal": "0,8 g",
+      "Valor energetico": "37 kcal",
+      "Valor energetico en KJ": "155 kJ"
+    },
+    "descripcion": "Gazpacho Dia Al Punto 3 x 330 ml",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.19,
+    "unidades": 3,
+    "peso_por_unidad": "330 ml",
+    "peso_total": "990 ml",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/gazpachos-y-salmorejos/p/246136",
+    "titulo": "Gazpacho suave",
+    "marca": "Dia",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2,4 g",
+      "Saturadas": "0,4 g",
+      "Hidratos de carbono": "2,8 g",
+      "Azucares": "0 g",
+      "Fibra alimentaria": "0 g",
+      "Proteinas": "0,5 g",
+      "Sal": "0,8 g",
+      "Valor energetico": "37 kcal",
+      "Valor energetico en KJ": "152 kJ"
+    },
+    "descripcion": "Gazpacho suave Dia Al Punto 1 L",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.89,
+    "unidades": 1,
+    "peso_por_unidad": "1 l",
+    "peso_total": "1 l",
+    "origen": "dia_directo",
+    "direccion_manufactura": []
+  }
+]
