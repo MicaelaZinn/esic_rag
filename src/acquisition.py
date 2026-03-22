@@ -99,7 +99,7 @@ def parse_dia_product(html, url, cat_name):
         "Hidratos de carbono": "0 g",
         "Azucares": "0 g",
         "Fibra alimentaria": "0 g",
-        "Proteinas": "0 g",
+        "Proteínas": "0 g",
         "Sal": "0 g",
         "Valor energetico": "0 kcal",
         "Valor energetico en KJ": "0 kJ"
@@ -134,7 +134,7 @@ def parse_dia_product(html, url, cat_name):
             nutricion["Azucares"] = extract_g(i, text_lines)
         elif line_lower.startswith("fibra"):
             nutricion["Fibra alimentaria"] = extract_g(i, text_lines)
-        elif "proteínas" in line_lower or "proteinas" in line_lower:
+        elif line_lower.startswith("proteínas") or line_lower.startswith("proteinas"):
             nutricion["Proteinas"] = extract_g(i, text_lines)
         elif line_lower.startswith("sal"):
             nutricion["Sal"] = extract_g(i, text_lines)

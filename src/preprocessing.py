@@ -89,21 +89,29 @@ def ejecutar_preprocessing():
     print("\n--- Fase 2: Normalización ---")
     
     # 1. Crear 'texto_busqueda' (Limpiar, rellenar nulos y minusculizar)
-    # Rellenamos con texto vacío los posibles nulos en marca o descripción para que no rompan la concatenación
+    # Como 'descripcion' (del json) ya trae el nombre completo original con marca y tamaño, 
+    # concatenarla con 'titulo' y 'marca' es redundante. 
+    # Mejor concatenamos la descripción con la categoría para enriquecer el contexto.
+    
     if 'descripcion' in df.columns:
         df['descripcion'] = df['descripcion'].fillna('')
     else:
         df['descripcion'] = ''
         
-    if 'marca' in df.columns:
-        df['marca'] = df['marca'].fillna('')
+    if 'categorias' in df.columns:
+        # Si categorias es una lista, la unimos. Si no, la pasamos a string
+        df['cat_str'] = df['categorias'].apply(lambda x: " ".join(x) if isinstance(x, list) else str(x))
     else:
-        df['marca'] = ''
+        df['cat_str'] = ''
 
-    # Concatenamos, pasamos a minúsculas, quitamos dobles espacios y espacios a los lados
-    df['texto_busqueda'] = (df['titulo'] + " " + df['marca'] + " " + df['descripcion']).astype(str)
+    # Concatenamos descripcion y categorias, a minúsculas, y quitamos dobles espacios
+    df['texto_busqueda'] = (df['descripcion'] + " " + df['cat_str']).astype(str)
     df['texto_busqueda'] = df['texto_busqueda'].str.lower().str.replace(r'\s+', ' ', regex=True).str.strip()
-    print("  [✓] Columna 'texto_busqueda' creada y normalizada.")
+    
+    # Limpiamos la columna temporal
+    df = df.drop(columns=['cat_str'])
+    
+    print("  [✓] Columna 'texto_busqueda' creada y normalizada (sin duplicidades).")
 
     # 2. Normalizar precios (norm_precio) - Inverso: más barato = más cerca de 1
     max_precio = df['precio'].max()
@@ -136,7 +144,7 @@ def ejecutar_preprocessing():
     print(df[columnas_mostrar].head(3).to_string(index=False))
     
     print("\n>>> Ejemplo de 'texto_busqueda' (primer producto):")
-    print(f"    {df['texto_busqueda'].iloc[0][:500]}...") # Mostramos solo los primeros 100 caracteres
+    print(f"    {df['texto_busqueda'].iloc[0][:500]}...")
     
     # ==========================================
     # FASE 3: ENRIQUECIMIENTO
