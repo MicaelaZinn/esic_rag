@@ -34,7 +34,7 @@ def ejecutar_preprocessing():
     # ==========================================
     # FASE 1: LIMPIEZA
     # ==========================================
-    # --- Total JSON original ---
+    # --- Total Productos JSON original ---
     print(f"  -> Total de productos originales: {len(df)}")
 
     # 1. RENOMBRAR COLUMNAS
@@ -89,9 +89,8 @@ def ejecutar_preprocessing():
     print("\n--- Fase 2: Normalización ---")
     
     # 1. Crear 'texto_busqueda' (Limpiar, rellenar nulos y minusculizar)
-    # Como 'descripcion' (del json) ya trae el nombre completo original con marca y tamaño, 
-    # concatenarla con 'titulo' y 'marca' es redundante. 
-    # Mejor concatenamos la descripción con la categoría para enriquecer el contexto.
+    # Como 'descripcion' (del json) ya trae el nombre completo original con marca y tamaño, concatenarla con 'titulo' y 'marca' es redundante. 
+    # Por tanto, concatenamos la descripción con la categoría para enriquecer el contexto.
     
     if 'descripcion' in df.columns:
         df['descripcion'] = df['descripcion'].fillna('')
@@ -167,7 +166,7 @@ def ejecutar_preprocessing():
     # ==========================================
     # 4. EXPORTAR EL OUTPUT ESPERADO
     # ==========================================
-    # Seleccionamos ESTRICTAMENTE las columnas de tu rúbrica (más la categoría)
+    # Seleccionamos ESTRICTAMENTE las columnas críticas (más la categoría)
     columnas_finales = [
         'titulo', 'precio', 'proteinas', 'carbohidratos', 'grasas', 'fibra', 'calorias',
         'texto_busqueda', 'norm_precio', 'norm_nutri', 'score_nutricional'
@@ -182,10 +181,10 @@ def ejecutar_preprocessing():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     df_final.to_csv(OUTPUT_FILE, index=False, encoding='utf-8')
     
-    print(f"\n✅ PIPELINE COMPLETADO CON ÉXITO.")
+    print(f"\n CODIGO COMPLETADO CON ÉXITO.")
     print(f"  -> Archivo final guardado en: {OUTPUT_FILE}")
     
-    print("\n>>> 👀 VISTA PREVIA DEL DATAFRAME FINAL (Top 5):")
+    print("\n>>> VISTA PREVIA DEL DATAFRAME FINAL (Top 5):")
     columnas_vista = ['titulo', 'precio', 'proteinas', 'norm_precio', 'score_nutricional']
     print(df_final[columnas_vista].head(5).to_string(index=False))
     

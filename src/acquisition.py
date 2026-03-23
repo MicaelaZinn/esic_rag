@@ -20,7 +20,6 @@ def parse_dia_product(html, url, cat_name):
     
     # --- CAZADOR DE MARCAS Y LIMPIEZA DE TÍTULO ---
     # Lista de las marcas más comunes + marcas blancas de Dia. 
-    # El orden importa: ponemos las marcas blancas específicas de Dia primero.
     marcas_conocidas = [
         "Danone", "Nestlé", "Nestle", "Nocilla", "Nutella", "Dr. Oetker", "Nesquik", "Azucarera", "Campofrío", "Campofrio", "ElPozo", "Gallo",
         "Dekora", "La piara","Artiach", "Milka", "Valor", "Gullón", "Gullon", "Fidias", "Mari Marinera", "Vegecampo",
@@ -31,7 +30,7 @@ def parse_dia_product(html, url, cat_name):
         "Revilla", "Argal", "Ferrero", "Lindt", "Central Lechera Asturiana", "Gatorade",
         "Coca-Cola", "Pepsi", "Fanta", "Aquarius", "Nestea", "Red Bull", "Monster",
         "Lays", "Ruffles", "Doritos", "Cheetos", "Pringles", "Grefusa", "Facundo", "DiaCol",
-        "Dia" # Dia va al final como "red de seguridad"
+        "Dia"
     ]
     
     marca_detectada = "Desconocida"
@@ -52,7 +51,7 @@ def parse_dia_product(html, url, cat_name):
         titulo_limpio = re.sub(r'\b\d+(?:,\d+)?\s*(g|kg|ml|l|cl)\b.*$', '', titulo_limpio, flags=re.IGNORECASE)
         titulo_limpio = titulo_limpio.strip()
     
-    # Capitalizamos la marca para que quede bonita (ej: danone -> Danone)
+    # Capitalizamos la marca para que quede bien 
     if marca_detectada != "Desconocida":
         marca_detectada = marca_detectada.title() if marca_detectada.lower() != "dia" else "Dia"
 
@@ -139,13 +138,13 @@ def parse_dia_product(html, url, cat_name):
         elif line_lower.startswith("sal"):
             nutricion["Sal"] = extract_g(i, text_lines)
 
-    # 4. Construcción Final del Diccionario (NUEVA ESTRUCTURA)
+    # 4. Construcción Final del Diccionario 
     return {
         "url": url,
-        "titulo": titulo_limpio,                     # Ejemplo: "Yogur sabor coco, fresa, frutos del bosque y macedonia"
-        "marca": marca_detectada,                    # Ejemplo: "Danone"
+        "titulo": titulo_limpio,                     
+        "marca": marca_detectada,                    
         "valores_nutricionales_100_g": nutricion,
-        "descripcion": texto_original_web,           # Ejemplo: "Yogur sabor coco... Danone pack 8 x 120 g"
+        "descripcion": texto_original_web,           
         "categorias": [cat_name],
         "precio_total": precio_total,
         "unidades": unidades,
@@ -231,7 +230,7 @@ def run_acquisition():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ MISIÓN CUMPLIDA. Ahora los nombres de marca se extraen correctamente y los títulos están súper limpios.")
+    print(f"\n CONSEGUIDO. INFORMACION EXTRAIDA CORRECTAMENTE.")
 
 if __name__ == "__main__":
     run_acquisition()
