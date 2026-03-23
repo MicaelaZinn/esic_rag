@@ -1,4 +1,13 @@
 faiss-cpu==1.13.2
 numpy
 sentence-transformers==5.3.0
-# torch>=2.4.0
+playwright.sync_api
+bs4
+time
+json
+os
+re
+pandas
+
+
+
